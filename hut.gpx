@@ -1,0 +1,3941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2021-03-06T20:56:43.658Z</time>
+  <bounds minlat="47.240457824" minlon="9.990863465" maxlat="48.996945648" maxlon="13.289547963"/>
+  <wpt lat="48.636033218" lon="10.074041365">
+    <name>Basenhütte</name>
+    <cmt>osm-id 414954375</cmt>
+    <desc>osm-id 414954375</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.650891399" lon="10.016063070">
+    <name>Höllberghütte</name>
+    <cmt>osm-id 416870310</cmt>
+    <desc>osm-id 416870310</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.779582338" lon="10.076507153">
+    <name>Jägerhütte</name>
+    <cmt>osm-id 1000000183173234</cmt>
+    <desc>osm-id 1000000183173234</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.653633120" lon="10.033208337">
+    <name>Lindenhütte</name>
+    <cmt>osm-id 472665005</cmt>
+    <desc>osm-id 472665005</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.632145356" lon="10.047886977">
+    <name>Neuholzhütte</name>
+    <cmt>osm-id 1241402740</cmt>
+    <desc>osm-id 1241402740</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.644647552" lon="10.037961379">
+    <name>Saatschulhütte</name>
+    <cmt>osm-id 416879846</cmt>
+    <desc>osm-id 416879846</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.650225541" lon="10.072601689">
+    <name>Sachsenhardthütte</name>
+    <cmt>osm-id 519825623</cmt>
+    <desc>osm-id 519825623</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.653399073" lon="10.131851686">
+    <name>Sonneckhütte</name>
+    <cmt>osm-id 1000000034549600</cmt>
+    <desc>osm-id 1000000034549600</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.792103752" lon="10.086551523">
+    <name>Volkmarsberghütte</name>
+    <cmt>osm-id 1000000201287115</cmt>
+    <desc>osm-id 1000000201287115</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.970579198" lon="10.100469589">
+    <name>Waldhütte</name>
+    <cmt>osm-id 1237213555</cmt>
+    <desc>osm-id 1237213555</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.644125838" lon="11.054960238">
+    <name>Hörnle Hütte, 1390m</name>
+    <cmt>osm-id 1000000050842438</cmt>
+    <desc>osm-id 1000000050842438</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.832391873" lon="11.097561596">
+    <name>Kletterheim Aicha</name>
+    <cmt>osm-id 1000000079351717</cmt>
+    <desc>osm-id 1000000079351717</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.656956939" lon="11.421716530">
+    <name>Orterer Alm, 1085m</name>
+    <cmt>osm-id 1000000062208365</cmt>
+    <desc>osm-id 1000000062208365</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.911312245" lon="11.271359352">
+    <name>Roswitha's House</name>
+    <cmt>osm-id 4380695893</cmt>
+    <desc>osm-id 4380695893</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.657747688" lon="11.462421650">
+    <name>Tutzinger Hütte, 1327m</name>
+    <cmt>osm-id 1000000097575267</cmt>
+    <desc>osm-id 1000000097575267</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.996945648" lon="10.698188972">
+    <name>osm-id 4360003466</name>
+    <cmt>osm-id 4360003466</cmt>
+    <desc>osm-id 4360003466</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.533817058" lon="10.178237977">
+    <name>Almagmach, 1140m</name>
+    <cmt>osm-id 1000000096841618</cmt>
+    <desc>osm-id 1000000096841618</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.498633098" lon="9.993229341">
+    <name>Alpe Glutschwanden</name>
+    <cmt>osm-id 1000000067416571</cmt>
+    <desc>osm-id 1000000067416571</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.557784440" lon="10.168993743">
+    <name>Alpe Gschwenderberg</name>
+    <cmt>osm-id 2339464519</cmt>
+    <desc>osm-id 2339464519</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.523666071" lon="10.165047040">
+    <name>Alpe Gund, 1502m</name>
+    <cmt>osm-id 1000000070232832</cmt>
+    <desc>osm-id 1000000070232832</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.494895943" lon="9.998879246">
+    <name>Alpe Hinter-Hochwies, 1228m</name>
+    <cmt>osm-id 850214448</cmt>
+    <desc>osm-id 850214448</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.515365388" lon="10.009862892">
+    <name>Alpe Hohenegg</name>
+    <cmt>osm-id 1000000192670935</cmt>
+    <desc>osm-id 1000000192670935</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.546717897" lon="10.121905971">
+    <name>Alpe Huberschwändle</name>
+    <cmt>osm-id 1976860895</cmt>
+    <desc>osm-id 1976860895</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.503843959" lon="10.004970627">
+    <name>Alpe Häuslers - Gschwend, 1300m</name>
+    <cmt>osm-id 1000000096862629</cmt>
+    <desc>osm-id 1000000096862629</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.545224493" lon="10.127314562">
+    <name>Alpe Im Riemle</name>
+    <cmt>osm-id 1252222104</cmt>
+    <desc>osm-id 1252222104</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.565795947" lon="10.310795177">
+    <name>Alpe Kammeregg, 1130m</name>
+    <cmt>osm-id 1000000037715435</cmt>
+    <desc>osm-id 1000000037715435</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.541465377" lon="10.103426054">
+    <name>Alpe Kuhschwand, 1045m</name>
+    <cmt>osm-id 4307334991</cmt>
+    <desc>osm-id 4307334991</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.543079397" lon="10.217656558">
+    <name>Alpe Mittag, 1210m</name>
+    <cmt>osm-id 347330676</cmt>
+    <desc>osm-id 347330676</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.567535024" lon="10.048991879">
+    <name>Alpe Mohr</name>
+    <cmt>osm-id 1920559002</cmt>
+    <desc>osm-id 1920559002</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.549769832" lon="10.144613888">
+    <name>Alpe Obere Kalle, 1300m</name>
+    <cmt>osm-id 301919929</cmt>
+    <desc>osm-id 301919929</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.507364694" lon="10.037326282">
+    <name>Alpe Remmelegg</name>
+    <cmt>osm-id 320450923</cmt>
+    <desc>osm-id 320450923</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.497360473" lon="10.047550276">
+    <name>Alpe Schilpere</name>
+    <cmt>osm-id 1000000082295524</cmt>
+    <desc>osm-id 1000000082295524</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.554771062" lon="10.159780942">
+    <name>Alpe Starkatsgund, 1213m</name>
+    <cmt>osm-id 461147289</cmt>
+    <desc>osm-id 461147289</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.544907825" lon="10.182715924">
+    <name>Alpe-Alp, 1325m</name>
+    <cmt>osm-id 414632032</cmt>
+    <desc>osm-id 414632032</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.491400437" lon="10.006183321">
+    <name>Alpengasthof Hörmoos, 1271m</name>
+    <cmt>osm-id 1000000067416576</cmt>
+    <desc>osm-id 1000000067416576</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.505601561" lon="10.196789559">
+    <name>Altes Höfle</name>
+    <cmt>osm-id 529085399</cmt>
+    <desc>osm-id 529085399</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.550302586" lon="10.144381123">
+    <name>Altusrieder Hütte</name>
+    <cmt>osm-id 1000000096841604</cmt>
+    <desc>osm-id 1000000096841604</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.495704545" lon="10.194742866">
+    <name>Anger-Hütte</name>
+    <cmt>osm-id 1000000180145337</cmt>
+    <desc>osm-id 1000000180145337</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.546984022" lon="10.083252573">
+    <name>Berghaus Carl Zeiss</name>
+    <cmt>osm-id 2380342235</cmt>
+    <desc>osm-id 2380342235</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.556148041" lon="10.173547296">
+    <name>Berghütte Hornklause, 1070m</name>
+    <cmt>osm-id 2820361226</cmt>
+    <desc>osm-id 2820361226</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.499639764" lon="10.192967327">
+    <name>Buhlsalpe</name>
+    <cmt>osm-id 1000000129731030</cmt>
+    <desc>osm-id 1000000129731030</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.555356286" lon="10.174002517">
+    <name>CvjM Bierlein Hütte</name>
+    <cmt>osm-id 409589279</cmt>
+    <desc>osm-id 409589279</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.501794752" lon="10.075443322">
+    <name>Farnachalpe</name>
+    <cmt>osm-id 1000000169736831</cmt>
+    <desc>osm-id 1000000169736831</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.511164043" lon="10.006452547">
+    <name>Fluhalpe Vordere</name>
+    <cmt>osm-id 419294893</cmt>
+    <desc>osm-id 419294893</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.496024063" lon="10.002495283">
+    <name>Gasthaus z. Hochwies</name>
+    <cmt>osm-id 1000000067416573</cmt>
+    <desc>osm-id 1000000067416573</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.551217973" lon="10.312739443">
+    <name>Grüntenhaus, 1535m</name>
+    <cmt>osm-id 1000000120209544</cmt>
+    <desc>osm-id 1000000120209544</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.562332293" lon="10.330440346">
+    <name>Grüntenhütte, 1477m</name>
+    <cmt>osm-id 1000000037715688</cmt>
+    <desc>osm-id 1000000037715688</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.526211487" lon="10.179485874">
+    <name>Hintere Krumbachalpe, 1358m</name>
+    <cmt>osm-id 461147270</cmt>
+    <desc>osm-id 461147270</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.576098396" lon="10.084761232">
+    <name>Hirnbein Alpe Eibele, 1080m</name>
+    <cmt>osm-id 320522382</cmt>
+    <desc>osm-id 320522382</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.576277936" lon="10.134758530">
+    <name>Hohenschwandalpe</name>
+    <cmt>osm-id 1000000161845041</cmt>
+    <desc>osm-id 1000000161845041</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.488871450" lon="10.003561126">
+    <name>Hubertushaus, 1287m</name>
+    <cmt>osm-id 1000000067388171</cmt>
+    <desc>osm-id 1000000067388171</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.510372456" lon="10.019065216">
+    <name>Imberghaus, 1213m</name>
+    <cmt>osm-id 484881698</cmt>
+    <desc>osm-id 484881698</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.581089400" lon="10.055615427">
+    <name>Juget Alpe</name>
+    <cmt>osm-id 4332684409</cmt>
+    <desc>osm-id 4332684409</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.587362165" lon="10.155383293">
+    <name>Juget-Alpe</name>
+    <cmt>osm-id 1000000027428798</cmt>
+    <desc>osm-id 1000000027428798</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.544690063" lon="10.173769835">
+    <name>Kemptener Naturfreundehaus</name>
+    <cmt>osm-id 1000000096841603</cmt>
+    <desc>osm-id 1000000096841603</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.553049335" lon="10.154186944">
+    <name>Kleine Starkatsgund Alpe</name>
+    <cmt>osm-id 2916044443</cmt>
+    <desc>osm-id 2916044443</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.599309981" lon="10.056268377">
+    <name>Königsalpe, 906m</name>
+    <cmt>osm-id 978223025</cmt>
+    <desc>osm-id 978223025</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.544893743" lon="10.115483757">
+    <name>Leutenschwandalpe, 1060m</name>
+    <cmt>osm-id 461157641</cmt>
+    <desc>osm-id 461157641</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.556169247" lon="10.140641285">
+    <name>Metzeler-Hütte</name>
+    <cmt>osm-id 1000000047448378</cmt>
+    <desc>osm-id 1000000047448378</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.496713893" lon="10.182956653">
+    <name>Mittelbergalpe</name>
+    <cmt>osm-id 1000000180145385</cmt>
+    <desc>osm-id 1000000180145385</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.575189294" lon="10.116615649">
+    <name>Neuschwandalpe</name>
+    <cmt>osm-id 1538391847</cmt>
+    <desc>osm-id 1538391847</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.545151487" lon="10.154345948">
+    <name>Obere Gründelalpe (verlassen), 1365m</name>
+    <cmt>osm-id 461147298</cmt>
+    <desc>osm-id 461147298</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.564081848" lon="10.320712477">
+    <name>Obere Kammeregg Alpe, 1237m</name>
+    <cmt>osm-id 1000000037715471</cmt>
+    <desc>osm-id 1000000037715471</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.497238936" lon="10.040282998">
+    <name>Oberstiegalpe, 1178m</name>
+    <cmt>osm-id 1000000082295519</cmt>
+    <desc>osm-id 1000000082295519</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.583728274" lon="10.067432318">
+    <name>Ochsenberg Alpe, 996m</name>
+    <cmt>osm-id 946907440</cmt>
+    <desc>osm-id 946907440</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.535599638" lon="10.068286685">
+    <name>Ochsenschwand-Alpe</name>
+    <cmt>osm-id 4413147393</cmt>
+    <desc>osm-id 4413147393</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.496948754" lon="10.189704420">
+    <name>Otto-Schwegler-Hütte, 1070m</name>
+    <cmt>osm-id 1000000180145390</cmt>
+    <desc>osm-id 1000000180145390</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.583727352" lon="10.139679043">
+    <name>Pfarr Alpe</name>
+    <cmt>osm-id 320522642</cmt>
+    <desc>osm-id 320522642</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.552824784" lon="10.133799976">
+    <name>Rauhgrundalpe, 1069m</name>
+    <cmt>osm-id 461157644</cmt>
+    <desc>osm-id 461157644</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.526025074" lon="10.014645858">
+    <name>Ravensburger Haus, 950m</name>
+    <cmt>osm-id 300960331</cmt>
+    <desc>osm-id 300960331</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.618615599" lon="10.119057382">
+    <name>Rist Alpe</name>
+    <cmt>osm-id 384842839</cmt>
+    <desc>osm-id 384842839</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.537940955" lon="10.168964826">
+    <name>Rosshuette, 1302m</name>
+    <cmt>osm-id 459461955</cmt>
+    <desc>osm-id 459461955</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.507362263" lon="10.030538784">
+    <name>Schloßalpe</name>
+    <cmt>osm-id 1000000082295659</cmt>
+    <desc>osm-id 1000000082295659</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.491042363" lon="10.023469739">
+    <name>Schneeloch Alpe, 1278m</name>
+    <cmt>osm-id 1000000067567113</cmt>
+    <desc>osm-id 1000000067567113</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.569388095" lon="10.104032150">
+    <name>Schneidersalpe</name>
+    <cmt>osm-id 459466329</cmt>
+    <desc>osm-id 459466329</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.545229858" lon="10.083050821">
+    <name>Schwand-Alpe, 935m</name>
+    <cmt>osm-id 457008110</cmt>
+    <desc>osm-id 457008110</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.541270582" lon="10.218540933">
+    <name>Schwander Alpe</name>
+    <cmt>osm-id 347330675</cmt>
+    <desc>osm-id 347330675</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.493227944" lon="10.054576574">
+    <name>Seelenalpe, 1360m</name>
+    <cmt>osm-id 1000000169731728</cmt>
+    <desc>osm-id 1000000169731728</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.537802821" lon="10.172970537">
+    <name>Seifenmoos</name>
+    <cmt>osm-id 1000000096841608</cmt>
+    <desc>osm-id 1000000096841608</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.573807035" lon="10.068945084">
+    <name>Sennalpe Hompessen, 1050m</name>
+    <cmt>osm-id 514941030</cmt>
+    <desc>osm-id 514941030</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.534244116" lon="10.166306254">
+    <name>Sennalpe Mittelberg, 1370m</name>
+    <cmt>osm-id 1000000096841609</cmt>
+    <desc>osm-id 1000000096841609</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.491637645" lon="10.069214730">
+    <name>Staufner Haus, 1634m</name>
+    <cmt>osm-id 304317994</cmt>
+    <desc>osm-id 304317994</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.620341685" lon="10.108029060">
+    <name>Talhofer Alm</name>
+    <cmt>osm-id 1313562338</cmt>
+    <desc>osm-id 1313562338</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.577658435" lon="10.099053718">
+    <name>Trähers-Alpe, 1150m</name>
+    <cmt>osm-id 1000000162802113</cmt>
+    <desc>osm-id 1000000162802113</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.531546317" lon="10.131321698">
+    <name>Untere Eck Alpe, 1113m</name>
+    <cmt>osm-id 461147285</cmt>
+    <desc>osm-id 461147285</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.527351091" lon="10.208132369">
+    <name>Vordere Krumbach-Alpe, 1313m</name>
+    <cmt>osm-id 1000000096991319</cmt>
+    <desc>osm-id 1000000096991319</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.544052619" lon="10.166373895">
+    <name>Weisses Haus</name>
+    <cmt>osm-id 1000000155309872</cmt>
+    <desc>osm-id 1000000155309872</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.567744236" lon="10.059689619">
+    <name>Wuchers Alpe, 901m</name>
+    <cmt>osm-id 961284865</cmt>
+    <desc>osm-id 961284865</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.631878285" lon="10.123246741">
+    <name>osm-id 1000000033640066</name>
+    <cmt>osm-id 1000000033640066</cmt>
+    <desc>osm-id 1000000033640066</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.507365867" lon="10.037279595">
+    <name>osm-id 1000000082295574</name>
+    <cmt>osm-id 1000000082295574</cmt>
+    <desc>osm-id 1000000082295574</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.496986976" lon="10.583538534">
+    <name>Adlerhorst</name>
+    <cmt>osm-id 480889449</cmt>
+    <desc>osm-id 480889449</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.587210536" lon="10.461188061">
+    <name>Alpe Obere Reuterwanne</name>
+    <cmt>osm-id 903490412</cmt>
+    <desc>osm-id 903490412</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.566220574" lon="10.757820345">
+    <name>Alpe Reith</name>
+    <cmt>osm-id 833885363</cmt>
+    <desc>osm-id 833885363</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.588183340" lon="10.446039364">
+    <name>Alpe Untere Reuterwanne, 1130m</name>
+    <cmt>osm-id 1000000083602417</cmt>
+    <desc>osm-id 1000000083602417</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.583767166" lon="10.992406933">
+    <name>August-Schuster-Haus am Pürschling, 1564m</name>
+    <cmt>osm-id 290500856</cmt>
+    <desc>osm-id 290500856</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.534406474" lon="10.562706152">
+    <name>Bad Kissinger Hütte</name>
+    <cmt>osm-id 1619954017</cmt>
+    <desc>osm-id 1619954017</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.534428770" lon="10.562668853">
+    <name>Bad Kissinger Hütte, 1792m</name>
+    <cmt>osm-id 1000000101968311</cmt>
+    <desc>osm-id 1000000101968311</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.598201474" lon="10.504145231">
+    <name>BergLodge, 1500m</name>
+    <cmt>osm-id 2069759840</cmt>
+    <desc>osm-id 2069759840</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.538619470" lon="10.776440576">
+    <name>Berggasthaus Bleckenau, 1167m</name>
+    <cmt>osm-id 528980776</cmt>
+    <desc>osm-id 528980776</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.607934792" lon="11.310935095">
+    <name>Berggasthaus Herzogstand, 1575m</name>
+    <cmt>osm-id 528928716</cmt>
+    <desc>osm-id 528928716</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.548627127" lon="10.570174847">
+    <name>Berghaus Allgäu, 1500m</name>
+    <cmt>osm-id 1000000097542864</cmt>
+    <desc>osm-id 1000000097542864</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.608097233" lon="10.511171445">
+    <name>Bergheim Maria Trost, 1123m</name>
+    <cmt>osm-id 1000000370557315</cmt>
+    <desc>osm-id 1000000370557315</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.581878556" lon="10.927177537">
+    <name>Brunnenkopfhaus, 1602m</name>
+    <cmt>osm-id 528983385</cmt>
+    <desc>osm-id 528983385</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.606263356" lon="10.810768325">
+    <name>Buchenbergalm</name>
+    <cmt>osm-id 1000000095281546</cmt>
+    <desc>osm-id 1000000095281546</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.600923078" lon="10.459877634">
+    <name>Buronhütte, 1250m</name>
+    <cmt>osm-id 1000000120297107</cmt>
+    <desc>osm-id 1000000120297107</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.589279525" lon="10.492268158">
+    <name>Dinserhütte, 1495m</name>
+    <cmt>osm-id 1000000187097605</cmt>
+    <desc>osm-id 1000000187097605</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.606797200" lon="10.496734288">
+    <name>Enzianstüble</name>
+    <cmt>osm-id 1000000110145454</cmt>
+    <desc>osm-id 1000000110145454</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.508823229" lon="10.615885388">
+    <name>Füssener Hütte, 1520m</name>
+    <cmt>osm-id 1000000033560054</cmt>
+    <desc>osm-id 1000000033560054</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.493997654" lon="10.614112532">
+    <name>Gimpelhaus, 1659m</name>
+    <cmt>osm-id 1000000040719429</cmt>
+    <desc>osm-id 1000000040719429</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.492388748" lon="10.989319962">
+    <name>Griesbergalm, 1428m</name>
+    <cmt>osm-id 3205233326</cmt>
+    <desc>osm-id 3205233326</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.583496263" lon="10.510521932">
+    <name>Gundhütte, 1180m</name>
+    <cmt>osm-id 1000000187097600</cmt>
+    <desc>osm-id 1000000187097600</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.503560651" lon="10.672440855">
+    <name>Hahlealpe</name>
+    <cmt>osm-id 1000000085150483</cmt>
+    <desc>osm-id 1000000085150483</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.600099137" lon="10.468618786">
+    <name>Haslach-Alpe, 1150m</name>
+    <cmt>osm-id 3574612493</cmt>
+    <desc>osm-id 3574612493</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.514124783" lon="10.465289829">
+    <name>Haus Schattwald, 1100m</name>
+    <cmt>osm-id 529099342</cmt>
+    <desc>osm-id 529099342</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.590153674" lon="11.115737082">
+    <name>Hintere Soile Alm 1325, 1325m</name>
+    <cmt>osm-id 1000000038024453</cmt>
+    <desc>osm-id 1000000038024453</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.560218461" lon="10.440298766">
+    <name>Hintere Sorgalpe</name>
+    <cmt>osm-id 1000000088699423</cmt>
+    <desc>osm-id 1000000088699423</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.547808634" lon="10.568568874">
+    <name>Hochalphütte, 1510m</name>
+    <cmt>osm-id 1000000204983717</cmt>
+    <desc>osm-id 1000000204983717</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.491965042" lon="10.536421761">
+    <name>Hubertushütte</name>
+    <cmt>osm-id 1000000205285384</cmt>
+    <desc>osm-id 1000000205285384</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.601090465" lon="10.512910271">
+    <name>Kappeler Alp, 1350m</name>
+    <cmt>osm-id 1000000033420038</cmt>
+    <desc>osm-id 1000000033420038</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.566461219" lon="10.857219575">
+    <name>Kenzenhütte, 1294m</name>
+    <cmt>osm-id 1000000174962964</cmt>
+    <desc>osm-id 1000000174962964</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.590936879" lon="11.027430799">
+    <name>Kolbensattelhütte, 1276m</name>
+    <cmt>osm-id 1000000197589379</cmt>
+    <desc>osm-id 1000000197589379</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.591026062" lon="11.101913732">
+    <name>Laberalm 1402, 1400m</name>
+    <cmt>osm-id 1000000051038709</cmt>
+    <desc>osm-id 1000000051038709</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.509242743" lon="10.639732573">
+    <name>Musauer Alm, 1290m</name>
+    <cmt>osm-id 1000000033556062</cmt>
+    <desc>osm-id 1000000033556062</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.534507141" lon="10.749213556">
+    <name>Naturfreundehaus Säulinghaus, 1720m</name>
+    <cmt>osm-id 1000000083274851</cmt>
+    <desc>osm-id 1000000083274851</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.548653698" lon="10.551340040">
+    <name>Ostlerhütte, 1838m</name>
+    <cmt>osm-id 1000000040772439</cmt>
+    <desc>osm-id 1000000040772439</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.509322958" lon="10.618719058">
+    <name>Otto-Mayr-Hütte, 1530m</name>
+    <cmt>osm-id 1000000033558141</cmt>
+    <desc>osm-id 1000000033558141</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.542986022" lon="11.058575856">
+    <name>Roßalm-Diensthütte, 1327m</name>
+    <cmt>osm-id 918894158</cmt>
+    <desc>osm-id 918894158</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.503411286" lon="10.646059737">
+    <name>Sabahütte, 1563m</name>
+    <cmt>osm-id 1000000116481159</cmt>
+    <desc>osm-id 1000000116481159</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.524031857" lon="10.580883147">
+    <name>Seebenalpe</name>
+    <cmt>osm-id 2661066008</cmt>
+    <desc>osm-id 2661066008</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.493715938" lon="11.348571181">
+    <name>Soiernhaus, 1616m</name>
+    <cmt>osm-id 1000000128630808</cmt>
+    <desc>osm-id 1000000128630808</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.582302848" lon="10.468007242">
+    <name>Stubental-Alpe, 1284m</name>
+    <cmt>osm-id 615069368</cmt>
+    <desc>osm-id 615069368</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.502072277" lon="10.677812230">
+    <name>Sulztaler Hütte</name>
+    <cmt>osm-id 1000000085150480</cmt>
+    <desc>osm-id 1000000085150480</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.495664982" lon="10.619701082">
+    <name>Tannheimer Hütte, 1713m</name>
+    <cmt>osm-id 1000000040719448</cmt>
+    <desc>osm-id 1000000040719448</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.559433831" lon="10.778159285">
+    <name>Tegelberghaus, 1707m</name>
+    <cmt>osm-id 528992044</cmt>
+    <desc>osm-id 528992044</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.565390598" lon="10.436394392">
+    <name>Vordere Sorgalpe</name>
+    <cmt>osm-id 1000000111502292</cmt>
+    <desc>osm-id 1000000111502292</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.572662486" lon="10.799627686">
+    <name>Vordermühlberger Älpele</name>
+    <cmt>osm-id 1000000365167998</cmt>
+    <desc>osm-id 1000000365167998</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.508358536" lon="11.143391160">
+    <name>Wank-Haus, 1780m</name>
+    <cmt>osm-id 1000000057969046</cmt>
+    <desc>osm-id 1000000057969046</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.547228020" lon="11.188784363">
+    <name>Weilheimer Hütte, 1946m</name>
+    <cmt>osm-id 1000000038173874</cmt>
+    <desc>osm-id 1000000038173874</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.509286329" lon="10.616264418">
+    <name>Willi-Merkl-Gedächtnis-Hütte, 1550m</name>
+    <cmt>osm-id 1000000033560058</cmt>
+    <desc>osm-id 1000000033560058</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.490107697" lon="10.721036447">
+    <name>osm-id 1000000132995825</name>
+    <cmt>osm-id 1000000132995825</cmt>
+    <desc>osm-id 1000000132995825</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.549547963" lon="12.349526156">
+    <name>Ackerlhütte, 1465m</name>
+    <cmt>osm-id 389785644</cmt>
+    <desc>osm-id 389785644</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.654926423" lon="11.886817357">
+    <name>Albert-Link-Hütte, 1053m</name>
+    <cmt>osm-id 1000000096257977</cmt>
+    <desc>osm-id 1000000096257977</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.736676466" lon="11.833202094">
+    <name>Almbad Huberspitz</name>
+    <cmt>osm-id 324222931</cmt>
+    <desc>osm-id 324222931</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.533265445" lon="12.018872732">
+    <name>Almgasthof Buchacker, 1450m</name>
+    <cmt>osm-id 95823780</cmt>
+    <desc>osm-id 95823780</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.677170821" lon="12.853649268">
+    <name>Anthauptenhütte, 1250m</name>
+    <cmt>osm-id 1188850431</cmt>
+    <desc>osm-id 1188850431</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.580038225" lon="12.277269037">
+    <name>Anton-Karg-Haus, 829m</name>
+    <cmt>osm-id 1000000078158759</cmt>
+    <desc>osm-id 1000000078158759</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.574261669" lon="12.196354754">
+    <name>Aschenbrenner, 1135m</name>
+    <cmt>osm-id 2415975822</cmt>
+    <desc>osm-id 2415975822</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.592586856" lon="11.830192488">
+    <name>Bayralm</name>
+    <cmt>osm-id 1000000076212049</cmt>
+    <desc>osm-id 1000000076212049</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.683272427" lon="13.275265535">
+    <name>Bergalm.1</name>
+    <cmt>osm-id 1000000147165154</cmt>
+    <desc>osm-id 1000000147165154</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.735090191" lon="11.497658752">
+    <name>Berggasthof Blomberghaus, 1203m</name>
+    <cmt>osm-id 1000000097296499</cmt>
+    <desc>osm-id 1000000097296499</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.598667843" lon="12.345680958">
+    <name>Berggasthof Kohlalm, 1200m</name>
+    <cmt>osm-id 1000000130581410</cmt>
+    <desc>osm-id 1000000130581410</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.915518727" lon="12.999668894">
+    <name>Berghaus Loderhart</name>
+    <cmt>osm-id 323850377</cmt>
+    <desc>osm-id 323850377</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.555481428" lon="12.795777423">
+    <name>Bergheim Hirschbichl</name>
+    <cmt>osm-id 1000000230425967</cmt>
+    <desc>osm-id 1000000230425967</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.715945672" lon="13.253837954">
+    <name>Bergrestaurant Anzenbergalm</name>
+    <cmt>osm-id 1000000144223642</cmt>
+    <desc>osm-id 1000000144223642</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.631030623" lon="12.923376393">
+    <name>Bezoldhütte, 1390m</name>
+    <cmt>osm-id 449560298</cmt>
+    <desc>osm-id 449560298</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.586873835" lon="12.869489556">
+    <name>Blaueishütte, 1680m</name>
+    <cmt>osm-id 1000000180985122</cmt>
+    <desc>osm-id 1000000180985122</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.648061058" lon="11.890602289">
+    <name>Blecksteinhaus, 1022m</name>
+    <cmt>osm-id 1000000096257994</cmt>
+    <desc>osm-id 1000000096257994</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.677692845" lon="11.839085687">
+    <name>Bodenschneidhaus, 1365m</name>
+    <cmt>osm-id 1000000060310929</cmt>
+    <desc>osm-id 1000000060310929</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.663853820" lon="11.524464497">
+    <name>Brauneck-Gipfelhaus, 1540m</name>
+    <cmt>osm-id 1000000097581401</cmt>
+    <desc>osm-id 1000000097581401</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.722641388" lon="12.068086825">
+    <name>Breitenberghütte Naturfreundehaus, 1050m</name>
+    <cmt>osm-id 1000000082814302</cmt>
+    <desc>osm-id 1000000082814302</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.644702764" lon="12.098425878">
+    <name>Brünnsteinhaus, 1360m</name>
+    <cmt>osm-id 1000000067146529</cmt>
+    <desc>osm-id 1000000067146529</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.639769847" lon="11.679576980">
+    <name>Buchsteinhütte, 1240m</name>
+    <cmt>osm-id 1000000037574836</cmt>
+    <desc>osm-id 1000000037574836</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.631725650" lon="12.430719389">
+    <name>Bärenhütte</name>
+    <cmt>osm-id 1000000127055592</cmt>
+    <desc>osm-id 1000000127055592</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.574671376" lon="13.042541994">
+    <name>Carl-von-Stahl-Haus, 1733m</name>
+    <cmt>osm-id 1000000127908485</cmt>
+    <desc>osm-id 1000000127908485</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.650899338" lon="13.277844731">
+    <name>Christlalm</name>
+    <cmt>osm-id 1000000176686899</cmt>
+    <desc>osm-id 1000000176686899</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.729301648" lon="12.194296746">
+    <name>Deindlhütte, 1050m</name>
+    <cmt>osm-id 1000000082803159</cmt>
+    <desc>osm-id 1000000082803159</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.583930027" lon="13.016386181">
+    <name>Dr.-Hugo-Beck-Haus, 1260m</name>
+    <cmt>osm-id 1000000123146467</cmt>
+    <desc>osm-id 1000000123146467</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.502259361" lon="13.244502861">
+    <name>Edelweißerhütte, 2349m</name>
+    <cmt>osm-id 1000000168877625</cmt>
+    <desc>osm-id 1000000168877625</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.659356762" lon="12.578613376">
+    <name>Enno-Harms-Haus</name>
+    <cmt>osm-id 1000000150946073</cmt>
+    <desc>osm-id 1000000150946073</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.635817025" lon="13.260856541">
+    <name>Enzianhütte, 1520m</name>
+    <cmt>osm-id 1000000136756719</cmt>
+    <desc>osm-id 1000000136756719</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.657546857" lon="11.529566562">
+    <name>Florianshütte, 1290m</name>
+    <cmt>osm-id 1000000109699039</cmt>
+    <desc>osm-id 1000000109699039</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.522291271" lon="11.591724325">
+    <name>Forsthaus Aquilla, 919m</name>
+    <cmt>osm-id 1000000119830339</cmt>
+    <desc>osm-id 1000000119830339</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.974091299" lon="12.883238140">
+    <name>Fosthaus Ödwies</name>
+    <cmt>osm-id 3750133035</cmt>
+    <desc>osm-id 3750133035</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.769242423" lon="12.295182338">
+    <name>Frasdorfer Hütte, 953m</name>
+    <cmt>osm-id 1000000172567636</cmt>
+    <desc>osm-id 1000000172567636</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.593170991" lon="12.203431260">
+    <name>Gasthaus Veitenhof, 724m</name>
+    <cmt>osm-id 1000000083052777</cmt>
+    <desc>osm-id 1000000083052777</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.596744867" lon="13.018515520">
+    <name>Gasthof Vorderbrand</name>
+    <cmt>osm-id 1000000168180677</cmt>
+    <desc>osm-id 1000000168180677</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.549218135" lon="12.324524783">
+    <name>Gaudeamushütte, 1263m</name>
+    <cmt>osm-id 1000000083191775</cmt>
+    <desc>osm-id 1000000083191775</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.726203948" lon="11.802489376">
+    <name>Gindelalm 2, 1242m</name>
+    <cmt>osm-id 1000000143851120</cmt>
+    <desc>osm-id 1000000143851120</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.537247436" lon="12.996368436">
+    <name>Gotzenalm, 1685m</name>
+    <cmt>osm-id 1000000091760170</cmt>
+    <desc>osm-id 1000000091760170</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.553476058" lon="12.311020866">
+    <name>Gruttenhütte, 1620m</name>
+    <cmt>osm-id 1000000083122437</cmt>
+    <desc>osm-id 1000000083122437</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.581554260" lon="11.799442554">
+    <name>Gufferthütte, 1475m</name>
+    <cmt>osm-id 1000000046482588</cmt>
+    <desc>osm-id 1000000046482588</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.690121783" lon="13.186027939">
+    <name>Halleinerhütte, 1150m</name>
+    <cmt>osm-id 1000000161736447</cmt>
+    <desc>osm-id 1000000161736447</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.577551650" lon="12.285199994">
+    <name>Hans-Berger-Haus, 936m</name>
+    <cmt>osm-id 1000000083122419</cmt>
+    <desc>osm-id 1000000083122419</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.646635547" lon="12.501545968">
+    <name>Hindenburghütte, 1260m</name>
+    <cmt>osm-id 1000000257591435</cmt>
+    <desc>osm-id 1000000257591435</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.595616495" lon="12.235825555">
+    <name>Hinterkaiserhof</name>
+    <cmt>osm-id 2418595620</cmt>
+    <desc>osm-id 2418595620</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.665867656" lon="11.703025270">
+    <name>Hirschberghaus, 1511m</name>
+    <cmt>osm-id 1000000037652067</cmt>
+    <desc>osm-id 1000000037652067</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.750240983" lon="12.498028837">
+    <name>Hochgernhaus, 1510m</name>
+    <cmt>osm-id 1000000088700230</cmt>
+    <desc>osm-id 1000000088700230</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.891303493" lon="13.041581260">
+    <name>Hochwaldhütte</name>
+    <cmt>osm-id 1000000183964702</cmt>
+    <desc>osm-id 1000000183964702</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.501637926" lon="12.887087697">
+    <name>Ingolstädter Haus, 2119m</name>
+    <cmt>osm-id 1000000032499717</cmt>
+    <desc>osm-id 1000000032499717</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.587331319" lon="11.736960830">
+    <name>Jausenstation Blaubergalm, 1540m</name>
+    <cmt>osm-id 528882177</cmt>
+    <desc>osm-id 528882177</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.566096019" lon="12.231553467">
+    <name>Kaindlhütte, 1293m</name>
+    <cmt>osm-id 1000000083191820</cmt>
+    <desc>osm-id 1000000083191820</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.747587021" lon="12.814011751">
+    <name>Kaiser-Wilhelm-Haus, 1386m</name>
+    <cmt>osm-id 1000000038839192</cmt>
+    <desc>osm-id 1000000038839192</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.567045353" lon="12.091320455">
+    <name>Kala Alm</name>
+    <cmt>osm-id 1522699773</cmt>
+    <desc>osm-id 1522699773</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.714255964" lon="11.979971565">
+    <name>Kesselalm, 1278m</name>
+    <cmt>osm-id 1000000084097007</cmt>
+    <desc>osm-id 1000000084097007</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.680053022" lon="11.507815188">
+    <name>Kirchsteinhütte, 1050m</name>
+    <cmt>osm-id 1000000109160819</cmt>
+    <desc>osm-id 1000000109160819</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.701069638" lon="12.187943598">
+    <name>Kranzhorn Alm, 1230m</name>
+    <cmt>osm-id 1507068518</cmt>
+    <desc>osm-id 1507068518</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.623651866" lon="13.103052545">
+    <name>Kuchler Schihütte, 1230m</name>
+    <cmt>osm-id 1000000145476032</cmt>
+    <desc>osm-id 1000000145476032</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.495470941" lon="12.937126318">
+    <name>Kärlinger Haus, 1635m</name>
+    <cmt>osm-id 278226693</cmt>
+    <desc>osm-id 278226693</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.728022821" lon="12.193767596">
+    <name>Lagler Hütte, 1050m</name>
+    <cmt>osm-id 1000000082803164</cmt>
+    <desc>osm-id 1000000082803164</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.718737768" lon="13.227829831">
+    <name>Lechner Hütte, 1308m</name>
+    <cmt>osm-id 1000000208261958</cmt>
+    <desc>osm-id 1000000208261958</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.804621262" lon="12.675410025">
+    <name>Lechner Hütte, 796m</name>
+    <cmt>osm-id 1000000107531562</cmt>
+    <desc>osm-id 1000000107531562</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.651846828" lon="11.631138381">
+    <name>Lenggrieser Hütte, 1336m</name>
+    <cmt>osm-id 1000000037576051</cmt>
+    <desc>osm-id 1000000037576051</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.523296680" lon="13.217416657">
+    <name>Leopold-Happisch-Haus, 1925m</name>
+    <cmt>osm-id 1000000168881459</cmt>
+    <desc>osm-id 1000000168881459</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.516723173" lon="12.554956879">
+    <name>Lindtalalm, 1090m</name>
+    <cmt>osm-id 1693267583</cmt>
+    <desc>osm-id 1693267583</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.952694479" lon="12.005842729">
+    <name>Ludwig-Hanisch-Hütte</name>
+    <cmt>osm-id 1194481318</cmt>
+    <desc>osm-id 1194481318</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.613543542" lon="12.038422264">
+    <name>Mariandlalm, 1250m</name>
+    <cmt>osm-id 1559102082</cmt>
+    <desc>osm-id 1559102082</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.708136588" lon="12.038616640">
+    <name>Mitteralm, 1200m</name>
+    <cmt>osm-id 1000000070463565</cmt>
+    <desc>osm-id 1000000070463565</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.627312662" lon="12.575863441">
+    <name>Möseralm, 1360m</name>
+    <cmt>osm-id 1000000125849507</cmt>
+    <desc>osm-id 1000000125849507</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.628157558" lon="12.800926259">
+    <name>Neue Traunsteiner Hütte, 1560m</name>
+    <cmt>osm-id 297296178</cmt>
+    <desc>osm-id 297296178</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.682921896" lon="13.276127027">
+    <name>Neureith-Hütte</name>
+    <cmt>osm-id 1000000147165155</cmt>
+    <desc>osm-id 1000000147165155</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.657827567" lon="11.916430872">
+    <name>Obere Maxlraineralm, 1520m</name>
+    <cmt>osm-id 1000000110221196</cmt>
+    <desc>osm-id 1000000110221196</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.572863987" lon="12.112126099">
+    <name>Pendlinghaus, 1537m</name>
+    <cmt>osm-id 3075534776</cmt>
+    <desc>osm-id 3075534776</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.593793767" lon="12.217286294">
+    <name>Pfandlhof</name>
+    <cmt>osm-id 1000000083052779</cmt>
+    <desc>osm-id 1000000083052779</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.570639094" lon="12.438078532">
+    <name>Pfarr Alm</name>
+    <cmt>osm-id 1000000107596102</cmt>
+    <desc>osm-id 1000000107596102</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.701987624" lon="12.327854326">
+    <name>Priener Hütte, 1410m</name>
+    <cmt>osm-id 1000000030725037</cmt>
+    <desc>osm-id 1000000030725037</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.609520564" lon="13.071640190">
+    <name>Purtschellerhaus</name>
+    <cmt>osm-id 254546886</cmt>
+    <desc>osm-id 254546886</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.755091339" lon="12.849630397">
+    <name>Reichenhaller Haus, 1750m</name>
+    <cmt>osm-id 1000000080751554</cmt>
+    <desc>osm-id 1000000080751554</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.540949890" lon="12.297695652">
+    <name>Riedlhütte, 1268m</name>
+    <cmt>osm-id 1000000083191748</cmt>
+    <desc>osm-id 1000000083191748</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.603818271" lon="12.230872689">
+    <name>Ritzaualm, 1161m</name>
+    <cmt>osm-id 1000000083052786</cmt>
+    <desc>osm-id 1000000083052786</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.646143530" lon="11.935106926">
+    <name>Rotwandhaus, 1737m</name>
+    <cmt>osm-id 1000000091920694</cmt>
+    <desc>osm-id 1000000091920694</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.543425066" lon="11.614430733">
+    <name>Rotwandlhütte, 1525m</name>
+    <cmt>osm-id 1000000077401655</cmt>
+    <desc>osm-id 1000000077401655</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.640436962" lon="12.424065080">
+    <name>Scheibenwaldhütte</name>
+    <cmt>osm-id 305860388</cmt>
+    <desc>osm-id 305860388</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.550623780" lon="12.646320630">
+    <name>Schmidt-Zabierow Hütte</name>
+    <cmt>osm-id 2440740638</cmt>
+    <desc>osm-id 2440740638</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.550618500" lon="12.646324066">
+    <name>Schmidt-Zabierow Hütte, 1966m</name>
+    <cmt>osm-id 1000000027870023</cmt>
+    <desc>osm-id 1000000027870023</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.572138198" lon="13.039248493">
+    <name>Schneibsteinhaus, 1668m</name>
+    <cmt>osm-id 1000000127978113</cmt>
+    <desc>osm-id 1000000127978113</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.617738349" lon="12.133116648">
+    <name>Schopper-Alm, 599m</name>
+    <cmt>osm-id 1000000083530997</cmt>
+    <desc>osm-id 1000000083530997</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.730173282" lon="12.043879554">
+    <name>Schuhbräualm, 1157m</name>
+    <cmt>osm-id 1000000111088094</cmt>
+    <desc>osm-id 1000000111088094</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.721711667" lon="12.234426532">
+    <name>Schwarzrieshütte, 973m</name>
+    <cmt>osm-id 1000000081639631</cmt>
+    <desc>osm-id 1000000081639631</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.665085290" lon="11.906134877">
+    <name>Schönfeldhütte, 1410m</name>
+    <cmt>osm-id 1000000093450441</cmt>
+    <desc>osm-id 1000000093450441</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.527030567" lon="11.661079545">
+    <name>Seewaldhütte, 1582m</name>
+    <cmt>osm-id 1000000119834441</cmt>
+    <desc>osm-id 1000000119834441</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.945984850" lon="13.258465854">
+    <name>Skihütte-Kohlau</name>
+    <cmt>osm-id 534912502</cmt>
+    <desc>osm-id 534912502</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.723631291" lon="13.221037555">
+    <name>Spielbergalm, 1308m</name>
+    <cmt>osm-id 1000000146898949</cmt>
+    <desc>osm-id 1000000146898949</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.704470092" lon="12.243261645">
+    <name>Spitzsteinhaus, 1252m</name>
+    <cmt>osm-id 1000000036333042</cmt>
+    <desc>osm-id 1000000036333042</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.657714160" lon="11.507641766">
+    <name>Stie-Alm / Idealhanghütte, 1520m</name>
+    <cmt>osm-id 1000000109885898</cmt>
+    <desc>osm-id 1000000109885898</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.803796483" lon="12.771366220">
+    <name>Stoisser Alm, 1272m</name>
+    <cmt>osm-id 1000000120580866</cmt>
+    <desc>osm-id 1000000120580866</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.620360879" lon="12.499397183">
+    <name>Straubinger Haus, 1558m</name>
+    <cmt>osm-id 475333230</cmt>
+    <desc>osm-id 475333230</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.577069942" lon="12.310502445">
+    <name>Stripsenjochhaus, 1602m</name>
+    <cmt>osm-id 1000000083191764</cmt>
+    <desc>osm-id 1000000083191764</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.693078667" lon="12.980624959">
+    <name>Stöhrhaus, 1894m</name>
+    <cmt>osm-id 1000000150204245</cmt>
+    <desc>osm-id 1000000150204245</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.656271970" lon="11.858093580">
+    <name>Stümpfling Alm</name>
+    <cmt>osm-id 1000000110224510</cmt>
+    <desc>osm-id 1000000110224510</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.660792330" lon="11.925511742">
+    <name>Taubensteinhaus, 1567m</name>
+    <cmt>osm-id 1000000093450448</cmt>
+    <desc>osm-id 1000000093450448</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.632720750" lon="11.678348528">
+    <name>Tegernseer Hütte, 1650m</name>
+    <cmt>osm-id 1000000031119297</cmt>
+    <desc>osm-id 1000000031119297</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.714962894" lon="13.008867279">
+    <name>Toni-Lenz-Hütte, 1550m</name>
+    <cmt>osm-id 1000000150204244</cmt>
+    <desc>osm-id 1000000150204244</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.676619124" lon="13.222360890">
+    <name>Trattnerhuette - Tenneralm, 1270m</name>
+    <cmt>osm-id 1000000131780608</cmt>
+    <desc>osm-id 1000000131780608</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.659029448" lon="12.585704718">
+    <name>Traunsteiner Skihütte, 1160m</name>
+    <cmt>osm-id 1000000150946079</cmt>
+    <desc>osm-id 1000000150946079</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.679356569" lon="13.207466165">
+    <name>Trautenstattalm, 1390m</name>
+    <cmt>osm-id 1000000136775282</cmt>
+    <desc>osm-id 1000000136775282</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.504156437" lon="11.492642183">
+    <name>Tölzer Hütte, 1825m</name>
+    <cmt>osm-id 1000000100510700</cmt>
+    <desc>osm-id 1000000100510700</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.657787837" lon="11.844502073">
+    <name>Untere Suttenalm</name>
+    <cmt>osm-id 1000000060305502</cmt>
+    <desc>osm-id 1000000060305502</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.606071159" lon="12.239380740">
+    <name>Vorderkaiserfeldenhütte, 1388m</name>
+    <cmt>osm-id 1000000083122401</cmt>
+    <desc>osm-id 1000000083122401</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.655644249" lon="11.788573824">
+    <name>Wallberghaus, 1500m</name>
+    <cmt>osm-id 1000000101237740</cmt>
+    <desc>osm-id 1000000101237740</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.556809625" lon="12.205944657">
+    <name>Walleralm, 1199m</name>
+    <cmt>osm-id 1000000083122431</cmt>
+    <desc>osm-id 1000000083122431</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.687240336" lon="12.313451618">
+    <name>Wandberghütte</name>
+    <cmt>osm-id 1000000111592856</cmt>
+    <desc>osm-id 1000000111592856</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.494807262" lon="13.006578935">
+    <name>Wasseralm in der Röth, 1423m</name>
+    <cmt>osm-id 1000000039742124</cmt>
+    <desc>osm-id 1000000039742124</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.571272850" lon="12.933866596">
+    <name>Watzmannhaus, 1930m</name>
+    <cmt>osm-id 1000000039665877</cmt>
+    <desc>osm-id 1000000039665877</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.577802772" lon="12.209574440">
+    <name>Weinbergerhaus, 1272m</name>
+    <cmt>osm-id 2415975826</cmt>
+    <desc>osm-id 2415975826</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.488132752" lon="13.242805442">
+    <name>Werfener Hütte, 1969m</name>
+    <cmt>osm-id 1000000168877614</cmt>
+    <desc>osm-id 1000000168877614</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.539185667" lon="12.888260745">
+    <name>Wimbachgrieshütte (Naturfreundehaus), 1327m</name>
+    <cmt>osm-id 1000000149297576</cmt>
+    <desc>osm-id 1000000149297576</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.651295131" lon="13.279483560">
+    <name>Wimmer Alm</name>
+    <cmt>osm-id 1000000176686901</cmt>
+    <desc>osm-id 1000000176686901</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.519895975" lon="12.539129164">
+    <name>Winterstelleralm, 1423m</name>
+    <cmt>osm-id 456332347</cmt>
+    <desc>osm-id 456332347</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.700335970" lon="12.349718856">
+    <name>Wuhrsteinalm, 1120m</name>
+    <cmt>osm-id 1000000295808475</cmt>
+    <desc>osm-id 1000000295808475</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.724514995" lon="13.007218558">
+    <name>Zeppezauerhaus, 1663m</name>
+    <cmt>osm-id 1000000160081047</cmt>
+    <desc>osm-id 1000000160081047</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.678656764" lon="13.206354054">
+    <name>Zillhütte, 1370m</name>
+    <cmt>osm-id 1000000136775281</cmt>
+    <desc>osm-id 1000000136775281</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.586431270" lon="12.870149044">
+    <name>osm-id 1000000180985125</name>
+    <cmt>osm-id 1000000180985125</cmt>
+    <desc>osm-id 1000000180985125</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.428772030" lon="10.084565431">
+    <name>Bereuters Neualpe, 1510m</name>
+    <cmt>osm-id 528943966</cmt>
+    <desc>osm-id 528943966</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.461091727" lon="10.184671339">
+    <name>Berghaus Schwaben, 1513m</name>
+    <cmt>osm-id 292047294</cmt>
+    <desc>osm-id 292047294</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.450333554" lon="10.062381551">
+    <name>Bibersteinalpe, 969m</name>
+    <cmt>osm-id 528943964</cmt>
+    <desc>osm-id 528943964</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.460423354" lon="10.004291777">
+    <name>Dreißiggschwendenalpen, 924m</name>
+    <cmt>osm-id 477681954</cmt>
+    <desc>osm-id 477681954</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.476595063" lon="10.573539678">
+    <name>Edenalpe Nesselwängle</name>
+    <cmt>osm-id 1000000101989178</cmt>
+    <desc>osm-id 1000000101989178</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.413517218" lon="10.347132152">
+    <name>Edmund-Probst-Haus, 1930m</name>
+    <cmt>osm-id 1000000075922177</cmt>
+    <desc>osm-id 1000000075922177</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.446879959" lon="10.056991316">
+    <name>Eugsteralpe, 1074m</name>
+    <cmt>osm-id 528943997</cmt>
+    <desc>osm-id 528943997</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.411952568" lon="10.569819873">
+    <name>Feldele</name>
+    <cmt>osm-id 1000000100661290</cmt>
+    <desc>osm-id 1000000100661290</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.441132236" lon="10.592458136">
+    <name>Führenberghütte</name>
+    <cmt>osm-id 1313054431</cmt>
+    <desc>osm-id 1313054431</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.436407525" lon="10.075256154">
+    <name>Gmeiners Burstalpe, 1430m</name>
+    <cmt>osm-id 528944184</cmt>
+    <desc>osm-id 528944184</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.469157632" lon="10.575292753">
+    <name>Gräner Ödenalpe, 1715m</name>
+    <cmt>osm-id 1000000101989176</cmt>
+    <desc>osm-id 1000000101989176</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.442820938" lon="10.058007957">
+    <name>Güggeralpe, 1273m</name>
+    <cmt>osm-id 528944229</cmt>
+    <desc>osm-id 528944229</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.486136435" lon="10.599458031">
+    <name>Haldenseehaus, 1150m</name>
+    <cmt>osm-id 529095394</cmt>
+    <desc>osm-id 529095394</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.474314347" lon="10.017540045">
+    <name>Heugschwendalpe, 1073m</name>
+    <cmt>osm-id 1000000233666134</cmt>
+    <desc>osm-id 1000000233666134</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.442265134" lon="10.049395384">
+    <name>Hinterriesalpe, 1236m</name>
+    <cmt>osm-id 528944385</cmt>
+    <desc>osm-id 528944385</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.462386061" lon="10.053595975">
+    <name>Hochleckachalpe, 1398m</name>
+    <cmt>osm-id 477726165</cmt>
+    <desc>osm-id 477726165</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.485657241" lon="10.049178628">
+    <name>Hohenfluhealpe, 1480m</name>
+    <cmt>osm-id 477710306</cmt>
+    <desc>osm-id 477710306</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.475915039" lon="10.073033525">
+    <name>Holzschlagalpe, 1180m</name>
+    <cmt>osm-id 477710623</cmt>
+    <desc>osm-id 477710623</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.389851417" lon="10.254369462">
+    <name>Höllwiesenweg</name>
+    <cmt>osm-id 529268937</cmt>
+    <desc>osm-id 529268937</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.460537348" lon="10.211910345">
+    <name>Hörnerhaus</name>
+    <cmt>osm-id 1000000177943539</cmt>
+    <desc>osm-id 1000000177943539</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.412560340" lon="10.600160770">
+    <name>Hüttenhof</name>
+    <cmt>osm-id 1313054432</cmt>
+    <desc>osm-id 1313054432</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.399048293" lon="10.048483936">
+    <name>Ifer Krähenbergalpe</name>
+    <cmt>osm-id 1931896019</cmt>
+    <desc>osm-id 1931896019</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.408123296" lon="10.566254631">
+    <name>Jagdthüttenalpe</name>
+    <cmt>osm-id 1000000368504791</cmt>
+    <desc>osm-id 1000000368504791</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.424896574" lon="10.065340782">
+    <name>Jausenstation Wildries</name>
+    <cmt>osm-id 3163319535</cmt>
+    <desc>osm-id 3163319535</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.424880732" lon="10.065348493">
+    <name>Jausenstation Wildries.1</name>
+    <cmt>osm-id 1000000310841074</cmt>
+    <desc>osm-id 1000000310841074</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.394658942" lon="10.535466224">
+    <name>Jöchlehütte</name>
+    <cmt>osm-id 1313054442</cmt>
+    <desc>osm-id 1313054442</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.484775633" lon="9.995667888">
+    <name>Kleinhäderichalpe, 1367m</name>
+    <cmt>osm-id 1000000096615884</cmt>
+    <desc>osm-id 1000000096615884</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.414341830" lon="10.548300762">
+    <name>Krottenwaldhütte</name>
+    <cmt>osm-id 1313054448</cmt>
+    <desc>osm-id 1313054448</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.453771476" lon="10.112255970">
+    <name>Köpflehütte</name>
+    <cmt>osm-id 1000000119050644</cmt>
+    <desc>osm-id 1000000119050644</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.444155924" lon="10.514441896">
+    <name>Landsberger Hütte, 1810m</name>
+    <cmt>osm-id 1000000101987039</cmt>
+    <desc>osm-id 1000000101987039</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.464907421" lon="10.002014833">
+    <name>Leckenholzalpen</name>
+    <cmt>osm-id 1000000233666136</cmt>
+    <desc>osm-id 1000000233666136</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.474888926" lon="9.990863465">
+    <name>Lochalpe, 1231m</name>
+    <cmt>osm-id 477726301</cmt>
+    <desc>osm-id 477726301</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.424863046" lon="10.067077680">
+    <name>Lustenauer Riesalpe, 1244m</name>
+    <cmt>osm-id 528944471</cmt>
+    <desc>osm-id 528944471</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.485752543" lon="10.077503342">
+    <name>Obere Berggundalpe, 1480m</name>
+    <cmt>osm-id 477710590</cmt>
+    <desc>osm-id 477710590</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.443019841" lon="10.076775374">
+    <name>Obere Galtburstalpe, 1435m</name>
+    <cmt>osm-id 528944479</cmt>
+    <desc>osm-id 528944479</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.475745473" lon="10.488224644">
+    <name>Obere Roßalpe, 1685m</name>
+    <cmt>osm-id 908564979</cmt>
+    <desc>osm-id 908564979</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.480798839" lon="10.064559840">
+    <name>Obere Samannsbergalpe, 1209m</name>
+    <cmt>osm-id 477710825</cmt>
+    <desc>osm-id 477710825</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.462309282" lon="10.026736418">
+    <name>Ochsenlageralpe, 1282m</name>
+    <cmt>osm-id 477681872</cmt>
+    <desc>osm-id 477681872</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.468975997" lon="10.004964676">
+    <name>Ohlisgschwendalpe, 1005m</name>
+    <cmt>osm-id 1000000233666137</cmt>
+    <desc>osm-id 1000000233666137</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.483421452" lon="10.024084300">
+    <name>Plattentischalpe, 1474m</name>
+    <cmt>osm-id 477710762</cmt>
+    <desc>osm-id 477710762</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.392468834" lon="10.420021852">
+    <name>Prinz-Luitpold-Haus, 1846m</name>
+    <cmt>osm-id 1000000025804487</cmt>
+    <desc>osm-id 1000000025804487</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.417811854" lon="10.011369959">
+    <name>Rehenbergvorsäß, 1024m</name>
+    <cmt>osm-id 1000000216505304</cmt>
+    <desc>osm-id 1000000216505304</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.484361148" lon="10.036391784">
+    <name>Rohnealpe, 1394m</name>
+    <cmt>osm-id 477710735</cmt>
+    <desc>osm-id 477710735</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.473816462" lon="10.007838160">
+    <name>Schmalzbergalpe, 1125m</name>
+    <cmt>osm-id 477682012</cmt>
+    <desc>osm-id 477682012</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.477340046" lon="10.040709637">
+    <name>Schneidenbachalpe, 1013m</name>
+    <cmt>osm-id 477710673</cmt>
+    <desc>osm-id 477710673</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.457614662" lon="10.028736340">
+    <name>Schrofenalpe, 1310m</name>
+    <cmt>osm-id 477726439</cmt>
+    <desc>osm-id 477726439</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.477521682" lon="10.016420139">
+    <name>Schwarzenberger-Plattealpe, 1240m</name>
+    <cmt>osm-id 1000000180161210</cmt>
+    <desc>osm-id 1000000180161210</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.429198585" lon="10.406876178">
+    <name>Schwarzenberghütte, 1380m</name>
+    <cmt>osm-id 1000000099182939</cmt>
+    <desc>osm-id 1000000099182939</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.431892026" lon="10.588861043">
+    <name>Stuibenhütte</name>
+    <cmt>osm-id 1313054687</cmt>
+    <desc>osm-id 1313054687</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.479684632" lon="10.055787675">
+    <name>Südliche Lauchalpe, 1417m</name>
+    <cmt>osm-id 1000000178850963</cmt>
+    <desc>osm-id 1000000178850963</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.487323983" lon="10.064356327">
+    <name>Südliche Lauchalpe, 1417m.1</name>
+    <cmt>osm-id 1000000377874628</cmt>
+    <desc>osm-id 1000000377874628</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.448040852" lon="10.080551840">
+    <name>Untere Galtburstalpe, 1268m</name>
+    <cmt>osm-id 528944600</cmt>
+    <desc>osm-id 528944600</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.486003162" lon="10.498602279">
+    <name>Untere Roßalpe</name>
+    <cmt>osm-id 1000000069658146</cmt>
+    <desc>osm-id 1000000069658146</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.478939984" lon="10.008271420">
+    <name>Urschlabodenalpe, 1296m</name>
+    <cmt>osm-id 477681983</cmt>
+    <desc>osm-id 477681983</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.458226793" lon="10.490388349">
+    <name>Vilsalpe</name>
+    <cmt>osm-id 1000000101587517</cmt>
+    <desc>osm-id 1000000101587517</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.437703367" lon="10.197400264">
+    <name>Wannenkopfhütte, 1350m</name>
+    <cmt>osm-id 1000000274445636</cmt>
+    <desc>osm-id 1000000274445636</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.476367746" lon="10.454036873">
+    <name>Willersalpe, 1456m</name>
+    <cmt>osm-id 1000000100108452</cmt>
+    <desc>osm-id 1000000100108452</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.481854036" lon="10.056930380">
+    <name>Wäldlealpe, 1148m</name>
+    <cmt>osm-id 477711099</cmt>
+    <desc>osm-id 477711099</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.444091467" lon="10.514051383">
+    <name>osm-id 1000000130734359</name>
+    <cmt>osm-id 1000000130734359</cmt>
+    <desc>osm-id 1000000130734359</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.471917458" lon="9.995774589">
+    <name>osm-id 1000000180162048</name>
+    <cmt>osm-id 1000000180162048</cmt>
+    <desc>osm-id 1000000180162048</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.434509192" lon="10.052287895">
+    <name>osm-id 528943968</name>
+    <cmt>osm-id 528943968</cmt>
+    <desc>osm-id 528943968</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.432302572" lon="10.055632526">
+    <name>osm-id 528943971</name>
+    <cmt>osm-id 528943971</cmt>
+    <desc>osm-id 528943971</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.445847560" lon="11.262845770">
+    <name>$$$$$$$$-$$$$$$</name>
+    <cmt>osm-id 4305158125</cmt>
+    <desc>osm-id 4305158125</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.463822132" lon="11.101886574">
+    <name>AGV Drehmöser Hutte</name>
+    <cmt>osm-id 1000000227945922</cmt>
+    <desc>osm-id 1000000227945922</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.395474249" lon="11.226405948">
+    <name>Arnspitzhütte, 1955m</name>
+    <cmt>osm-id 1000000136778436</cmt>
+    <desc>osm-id 1000000136778436</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.451876495" lon="11.065986296">
+    <name>Barbarahaus, 1652m</name>
+    <cmt>osm-id 1000000036384375</cmt>
+    <desc>osm-id 1000000036384375</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.413660884" lon="11.278697876">
+    <name>Brunnsteinhütte, 1560m</name>
+    <cmt>osm-id 296163774</cmt>
+    <desc>osm-id 296163774</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.431942569" lon="11.082291780">
+    <name>DAV-Selbstversorgerhütte Stuibenhütte, 1640m</name>
+    <cmt>osm-id 1000000036545913</cmt>
+    <desc>osm-id 1000000036545913</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.437379574" lon="11.308893599">
+    <name>Dammkarhütte, 1650m</name>
+    <cmt>osm-id 293246279</cmt>
+    <desc>osm-id 293246279</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.465821551" lon="11.133027859">
+    <name>Eckbauer</name>
+    <cmt>osm-id 1000000036333750</cmt>
+    <desc>osm-id 1000000036333750</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.397910366" lon="10.695780599">
+    <name>Ehenbichler Alm, 1690m</name>
+    <cmt>osm-id 858377222</cmt>
+    <desc>osm-id 858377222</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.384902742" lon="10.968359336">
+    <name>Ehrwalder Alm, 1502m</name>
+    <cmt>osm-id 1000000237035038</cmt>
+    <desc>osm-id 1000000237035038</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.484687455" lon="10.672161737">
+    <name>Enzianhütte</name>
+    <cmt>osm-id 1000000116484464</cmt>
+    <desc>osm-id 1000000116484464</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.480815267" lon="10.846910924">
+    <name>Fürchterlichhütte</name>
+    <cmt>osm-id 1000000083917389</cmt>
+    <desc>osm-id 1000000083917389</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.449741289" lon="11.318732193">
+    <name>Hochlandhütte, 1623m</name>
+    <cmt>osm-id 1621410739</cmt>
+    <desc>osm-id 1621410739</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.440053821" lon="10.959396148">
+    <name>Hochthörle Hütte, 1479m</name>
+    <cmt>osm-id 1000000179480607</cmt>
+    <desc>osm-id 1000000179480607</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.475082884" lon="10.649523726">
+    <name>Höfeneralm</name>
+    <cmt>osm-id 1000000081626059</cmt>
+    <desc>osm-id 1000000081626059</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.437941832" lon="11.025184281">
+    <name>Höllentalangerhütte, 1387m</name>
+    <cmt>osm-id 1000000370669072</cmt>
+    <desc>osm-id 1000000370669072</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.448389037" lon="11.044488391">
+    <name>Höllentaleingangshütte, 1045m</name>
+    <cmt>osm-id 357482706</cmt>
+    <desc>osm-id 357482706</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.479396127" lon="10.795779470">
+    <name>Hölltalhütte</name>
+    <cmt>osm-id 995837959</cmt>
+    <desc>osm-id 995837959</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.417989969" lon="10.707409149">
+    <name>Jagthütte</name>
+    <cmt>osm-id 995944308</cmt>
+    <desc>osm-id 995944308</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.425219277" lon="10.696963118">
+    <name>Jagthütte.1</name>
+    <cmt>osm-id 995944333</cmt>
+    <desc>osm-id 995944333</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.427243171" lon="11.421606224">
+    <name>Karwendelhaus, 1765m</name>
+    <cmt>osm-id 1000000026959900</cmt>
+    <desc>osm-id 1000000026959900</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.410023138" lon="11.012774874">
+    <name>Knorrhütte, 2052m</name>
+    <cmt>osm-id 476498599</cmt>
+    <desc>osm-id 476498599</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.452199785" lon="11.066134740">
+    <name>Kreuzeckhaus, 1652m</name>
+    <cmt>osm-id 1000000360293635</cmt>
+    <desc>osm-id 1000000360293635</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.399978433" lon="10.725253969">
+    <name>Kögelehütte, 1510m</name>
+    <cmt>osm-id 1348444866</cmt>
+    <desc>osm-id 1348444866</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.412406197" lon="11.129090544">
+    <name>Meilerhütte, 2366m</name>
+    <cmt>osm-id 476485073</cmt>
+    <desc>osm-id 476485073</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.433853224" lon="11.282439977">
+    <name>Mittenwalder Hütte, 1518m</name>
+    <cmt>osm-id 340560279</cmt>
+    <desc>osm-id 340560279</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.421068056" lon="10.984896747">
+    <name>Münchner Haus, 2959m</name>
+    <cmt>osm-id 1000000236047957</cmt>
+    <desc>osm-id 1000000236047957</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.407571683" lon="11.104387986">
+    <name>Oberreintalhütte, 1525m</name>
+    <cmt>osm-id 476494311</cmt>
+    <desc>osm-id 476494311</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.394455094" lon="11.328416895">
+    <name>Pleisenhütte, 1757m</name>
+    <cmt>osm-id 1000000147963680</cmt>
+    <desc>osm-id 1000000147963680</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.405313263" lon="11.035681274">
+    <name>Reintalangerhütte, 1370m</name>
+    <cmt>osm-id 259506723</cmt>
+    <desc>osm-id 259506723</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.404935155" lon="10.691096121">
+    <name>Reuttener Hütte, 1740m</name>
+    <cmt>osm-id 389786310</cmt>
+    <desc>osm-id 389786310</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.468917491" lon="11.088248631">
+    <name>Rießerkopf Haus (Toni Hütte), 1096m</name>
+    <cmt>osm-id 1000000036555424</cmt>
+    <desc>osm-id 1000000036555424</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.487014690" lon="10.639439374">
+    <name>Schneetal Alm, 1640m</name>
+    <cmt>osm-id 1000000040719575</cmt>
+    <desc>osm-id 1000000040719575</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.386233453" lon="11.038248651">
+    <name>Steinernes Hüttl, 1925m</name>
+    <cmt>osm-id 1000000124389528</cmt>
+    <desc>osm-id 1000000124389528</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.415884100" lon="10.883608237">
+    <name>Tuftlalm, 1500m</name>
+    <cmt>osm-id 1000000161115246</cmt>
+    <desc>osm-id 1000000161115246</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.423225474" lon="10.970251048">
+    <name>Wiener-Neustädter-Hütte, 2209m</name>
+    <cmt>osm-id 1000000124074836</cmt>
+    <desc>osm-id 1000000124074836</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.391159749" lon="10.848791655">
+    <name>Wolfratshauser Hütte, 1735m</name>
+    <cmt>osm-id 1000000125026512</cmt>
+    <desc>osm-id 1000000125026512</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.391040139" lon="10.848743459">
+    <name>Wolfratshauser Hütte, 1751m</name>
+    <cmt>osm-id 442513994</cmt>
+    <desc>osm-id 442513994</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.468886646" lon="11.087864321">
+    <name>osm-id 1000000036555423</name>
+    <cmt>osm-id 1000000036555423</cmt>
+    <desc>osm-id 1000000036555423</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.468623286" lon="11.088087531">
+    <name>osm-id 1000000036555425</name>
+    <cmt>osm-id 1000000036555425</cmt>
+    <desc>osm-id 1000000036555425</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.405296583" lon="11.035680268">
+    <name>osm-id 1000000173682244</name>
+    <cmt>osm-id 1000000173682244</cmt>
+    <desc>osm-id 1000000173682244</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.479068059" lon="10.749790482">
+    <name>osm-id 1833369013</name>
+    <cmt>osm-id 1833369013</cmt>
+    <desc>osm-id 1833369013</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.356492197" lon="10.026792074">
+    <name>Almisguntenalpe</name>
+    <cmt>osm-id 1313484689</cmt>
+    <desc>osm-id 1313484689</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.283406444" lon="10.153595768">
+    <name>Alpwirtschaft Obere Gemstelalpe, 1692m</name>
+    <cmt>osm-id 1000000130281247</cmt>
+    <desc>osm-id 1000000130281247</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.297505978" lon="10.427925233">
+    <name>Berghütte Kasermandl, 1410m</name>
+    <cmt>osm-id 1000000105254622</cmt>
+    <desc>osm-id 1000000105254622</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.362899827" lon="10.204336038">
+    <name>Bergstüble</name>
+    <cmt>osm-id 1000000088761913</cmt>
+    <desc>osm-id 1000000088761913</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.257648688" lon="10.028506173">
+    <name>Biberacher Hütte, 1846m</name>
+    <cmt>osm-id 925572227</cmt>
+    <desc>osm-id 925572227</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.315648776" lon="10.212433795">
+    <name>Fiderepasshütte, 2070m</name>
+    <cmt>osm-id 1000000098029976</cmt>
+    <desc>osm-id 1000000098029976</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.262548329" lon="10.052197287">
+    <name>Gemsalpe, 1581m</name>
+    <cmt>osm-id 1309465574</cmt>
+    <desc>osm-id 1309465574</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.265688023" lon="10.471045347">
+    <name>Grießbachalm, 1475m</name>
+    <cmt>osm-id 470067586</cmt>
+    <desc>osm-id 470067586</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.249795264" lon="10.591030363">
+    <name>Hanauer Hütte, 1922m</name>
+    <cmt>osm-id 1000000078608844</cmt>
+    <desc>osm-id 1000000078608844</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.249805490" lon="10.013112137">
+    <name>Heimenwaldalpe</name>
+    <cmt>osm-id 926193033</cmt>
+    <desc>osm-id 926193033</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.309259921" lon="10.398745229">
+    <name>Hermann-von-Barth-Hütte, 2131m</name>
+    <cmt>osm-id 1000000075106212</cmt>
+    <desc>osm-id 1000000075106212</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.294075098" lon="10.004712883">
+    <name>Hochalpe, 1752m</name>
+    <cmt>osm-id 3323456751</cmt>
+    <desc>osm-id 3323456751</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.277147425" lon="10.115288878">
+    <name>Hochalpe, 1970m</name>
+    <cmt>osm-id 1000000129428167</cmt>
+    <desc>osm-id 1000000129428167</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.254779059" lon="10.006538378">
+    <name>Ischgarneialpe</name>
+    <cmt>osm-id 926192922</cmt>
+    <desc>osm-id 926192922</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.341453554" lon="10.173611166">
+    <name>Jahnhütte</name>
+    <cmt>osm-id 1000000122818261</cmt>
+    <desc>osm-id 1000000122818261</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.285123728" lon="10.425182255">
+    <name>Kasermandl Berghütte $ Restaurant</name>
+    <cmt>osm-id 1000000168366975</cmt>
+    <desc>osm-id 1000000168366975</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.341785980" lon="10.456972299">
+    <name>Kaufbeurer Haus, 2005m</name>
+    <cmt>osm-id 1000000102017757</cmt>
+    <desc>osm-id 1000000102017757</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.313355487" lon="10.327804238">
+    <name>Kemptner Hütte, 1846m</name>
+    <cmt>osm-id 1000000075133409</cmt>
+    <desc>osm-id 1000000075133409</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.366657099" lon="10.175863970">
+    <name>Mahdtalhaus, 1150m</name>
+    <cmt>osm-id 1000000087867019</cmt>
+    <desc>osm-id 1000000087867019</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.292335937" lon="10.194894075">
+    <name>Mindelheimer Hütte, 2058m</name>
+    <cmt>osm-id 1000000038431259</cmt>
+    <desc>osm-id 1000000038431259</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.366786599" lon="10.212260541">
+    <name>Mittelalp</name>
+    <cmt>osm-id 1000000366138148</cmt>
+    <desc>osm-id 1000000366138148</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.322684377" lon="10.052370457">
+    <name>Neuhornbachhaus, 1700m</name>
+    <cmt>osm-id 529269467</cmt>
+    <desc>osm-id 529269467</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.353920294" lon="10.010967962">
+    <name>Ostergundenalpe</name>
+    <cmt>osm-id 1313484502</cmt>
+    <desc>osm-id 1313484502</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.315138653" lon="10.069594095">
+    <name>Pisialpe, 1405m</name>
+    <cmt>osm-id 1000000129251318</cmt>
+    <desc>osm-id 1000000129251318</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.288977979" lon="10.255068680">
+    <name>Rappenseehütte, 2091m</name>
+    <cmt>osm-id 1000000075472593</cmt>
+    <desc>osm-id 1000000075472593</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.254534895" lon="10.029870328">
+    <name>Schadonaalpe</name>
+    <cmt>osm-id 925572258</cmt>
+    <desc>osm-id 925572258</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.377236485" lon="10.598540045">
+    <name>Schwarzwaldhütte</name>
+    <cmt>osm-id 1000000163711579</cmt>
+    <desc>osm-id 1000000163711579</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.331179352" lon="10.087119648">
+    <name>Schwarzwasserhütte, 1620m</name>
+    <cmt>osm-id 1000000129023318</cmt>
+    <desc>osm-id 1000000129023318</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.345045367" lon="10.556262061">
+    <name>Stablalm</name>
+    <cmt>osm-id 462401912</cmt>
+    <desc>osm-id 462401912</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.342674294" lon="10.559193548">
+    <name>Stablalpe</name>
+    <cmt>osm-id 462401906</cmt>
+    <desc>osm-id 462401906</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.351852395" lon="10.016538324">
+    <name>Stoggertennalpe</name>
+    <cmt>osm-id 1313484784</cmt>
+    <desc>osm-id 1313484784</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.261646856" lon="10.069649499">
+    <name>Treualpe</name>
+    <cmt>osm-id 926192973</cmt>
+    <desc>osm-id 926192973</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.341504097" lon="9.996185135">
+    <name>Untersattelalpe, 1460m</name>
+    <cmt>osm-id 1393990593</cmt>
+    <desc>osm-id 1393990593</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.367551364" lon="10.024890974">
+    <name>Unterspitzalpe</name>
+    <cmt>osm-id 1313497174</cmt>
+    <desc>osm-id 1313497174</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.294509029" lon="10.070590870">
+    <name>Vorderüntschenalpe</name>
+    <cmt>osm-id 1000000158709190</cmt>
+    <desc>osm-id 1000000158709190</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.297708066" lon="10.282234931">
+    <name>Waltenberger-Haus, 2085m</name>
+    <cmt>osm-id 1000000075318759</cmt>
+    <desc>osm-id 1000000075318759</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.278526835" lon="10.136919050">
+    <name>Widdersteinhütte, 2015m</name>
+    <cmt>osm-id 1000000101963413</cmt>
+    <desc>osm-id 1000000101963413</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.361901291" lon="10.002137376">
+    <name>Wölflersguntenalpe</name>
+    <cmt>osm-id 1313409869</cmt>
+    <desc>osm-id 1313409869</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.344875718" lon="10.153060751">
+    <name>osm-id 701639897</name>
+    <cmt>osm-id 701639897</cmt>
+    <desc>osm-id 701639897</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.287801160" lon="10.060839364">
+    <name>Üntschenbergvorsäß, 1249m</name>
+    <cmt>osm-id 1000000362653924</cmt>
+    <desc>osm-id 1000000362653924</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.363153547" lon="10.829406073">
+    <name>AlpenRetreat</name>
+    <cmt>osm-id 4252158087</cmt>
+    <desc>osm-id 4252158087</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.340865145" lon="11.335389884">
+    <name>Amtsäge, 1196m</name>
+    <cmt>osm-id 1000000099318408</cmt>
+    <desc>osm-id 1000000099318408</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.301275320" lon="10.667836089">
+    <name>Anhalter Hütte, 2038m</name>
+    <cmt>osm-id 283306783</cmt>
+    <desc>osm-id 283306783</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.296503922" lon="11.403078865">
+    <name>Arzler Alm, 1067m</name>
+    <cmt>osm-id 1421910083</cmt>
+    <desc>osm-id 1421910083</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.303272979" lon="11.387770660">
+    <name>Bodenstein Alm, 1661m</name>
+    <cmt>osm-id 274356992</cmt>
+    <desc>osm-id 274356992</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.345523890" lon="10.812381338">
+    <name>Brandhütte</name>
+    <cmt>osm-id 1217589518</cmt>
+    <desc>osm-id 1217589518</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.361030830" lon="10.981180295">
+    <name>Breitenkopfhütte, 2017m</name>
+    <cmt>osm-id 1396763486</cmt>
+    <desc>osm-id 1396763486</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.359997761" lon="10.933578126">
+    <name>Coburger Hütte, 1927m</name>
+    <cmt>osm-id 295352733</cmt>
+    <desc>osm-id 295352733</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.297978634" lon="11.417615851">
+    <name>Enzianhütte, 1041m</name>
+    <cmt>osm-id 1000000183618031</cmt>
+    <desc>osm-id 1000000183618031</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.331123361" lon="11.267651618">
+    <name>Eppzirler Alm, 1455m</name>
+    <cmt>osm-id 280889033</cmt>
+    <desc>osm-id 280889033</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.241897499" lon="10.940438882">
+    <name>Feldringalm, 1888m</name>
+    <cmt>osm-id 1000000144267648</cmt>
+    <desc>osm-id 1000000144267648</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.369650779" lon="11.049394486">
+    <name>Gaistal Alm, 1369m</name>
+    <cmt>osm-id 1000000026932301</cmt>
+    <desc>osm-id 1000000026932301</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.369653378" lon="11.049394151">
+    <name>Gaistalalm, 1369m</name>
+    <cmt>osm-id 1460275537</cmt>
+    <desc>osm-id 1460275537</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.262802133" lon="10.843656985">
+    <name>Haiminger Alm, 1786m</name>
+    <cmt>osm-id 1000000178374321</cmt>
+    <desc>osm-id 1000000178374321</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.356470237" lon="11.479796665">
+    <name>Hallerangeralm, 1774m</name>
+    <cmt>osm-id 474598531</cmt>
+    <desc>osm-id 474598531</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.354767369" lon="11.477177488">
+    <name>Hallerangerhaus, 1768m</name>
+    <cmt>osm-id 395228513</cmt>
+    <desc>osm-id 395228513</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.339553796" lon="11.212771861">
+    <name>Hocheggalm, 1544m</name>
+    <cmt>osm-id 1000000137052018</cmt>
+    <desc>osm-id 1000000137052018</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.371222051" lon="11.082167728">
+    <name>Hämmermoos Alm, 1417m</name>
+    <cmt>osm-id 1000000026932822</cmt>
+    <desc>osm-id 1000000026932822</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.298493199" lon="11.366869798">
+    <name>Höttinger Alm, 1487m</name>
+    <cmt>osm-id 524217582</cmt>
+    <desc>osm-id 524217582</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.240457824" lon="11.152040027">
+    <name>Inzinger Alm</name>
+    <cmt>osm-id 290515818</cmt>
+    <desc>osm-id 290515818</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.362148222" lon="10.867983447">
+    <name>Jagdhaus</name>
+    <cmt>osm-id 1000000306573639</cmt>
+    <desc>osm-id 1000000306573639</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.286608331" lon="11.279423665">
+    <name>Jausenstation Brunntal</name>
+    <cmt>osm-id 1000000127473725</cmt>
+    <desc>osm-id 1000000127473725</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.288589980" lon="11.296961289">
+    <name>Jägerhäusl</name>
+    <cmt>osm-id 1000000087312649</cmt>
+    <desc>osm-id 1000000087312649</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.247998100" lon="10.777967172">
+    <name>Karröster Alm, 1467m</name>
+    <cmt>osm-id 1000000144195823</cmt>
+    <desc>osm-id 1000000144195823</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.324968195" lon="11.313794749">
+    <name>Kristenalm</name>
+    <cmt>osm-id 1340474535</cmt>
+    <desc>osm-id 1340474535</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.328560762" lon="10.926517462">
+    <name>Lehnberghaus, 1554m</name>
+    <cmt>osm-id 1000000196279374</cmt>
+    <desc>osm-id 1000000196279374</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.346452521" lon="10.791342175">
+    <name>Loreahütte, 2022m</name>
+    <cmt>osm-id 1396118507</cmt>
+    <desc>osm-id 1396118507</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.342212787" lon="10.899466462">
+    <name>Marienbergalm, 1622m</name>
+    <cmt>osm-id 1000000084622126</cmt>
+    <desc>osm-id 1000000084622126</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.343535284" lon="10.622225879">
+    <name>Michels Fallerscheinstuben</name>
+    <cmt>osm-id 1000000106346344</cmt>
+    <desc>osm-id 1000000106346344</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.262463421" lon="10.669830060">
+    <name>Muttekopfhütte, 1934m</name>
+    <cmt>osm-id 529383642</cmt>
+    <desc>osm-id 529383642</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.337365784" lon="11.343046417">
+    <name>Möslalm, 1262m</name>
+    <cmt>osm-id 1000000099318407</cmt>
+    <desc>osm-id 1000000099318407</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.341733342" lon="10.844932962">
+    <name>Nassereither Alm (Muthenaualm), 1735m</name>
+    <cmt>osm-id 309897705</cmt>
+    <desc>osm-id 309897705</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.341878181" lon="11.017347286">
+    <name>Neue Alplhütte, 1540m</name>
+    <cmt>osm-id 1000000188128107</cmt>
+    <desc>osm-id 1000000188128107</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.288997676" lon="11.296595754">
+    <name>Neue Magdeburger Hütte, 1633m</name>
+    <cmt>osm-id 1000000087312650</cmt>
+    <desc>osm-id 1000000087312650</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.320056567" lon="11.236779056">
+    <name>Nördlinger Hütte, 2238m</name>
+    <cmt>osm-id 1000000166643728</cmt>
+    <desc>osm-id 1000000166643728</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.355211442" lon="11.277222997">
+    <name>Oberbrunnalm, 1500m</name>
+    <cmt>osm-id 1000000366295874</cmt>
+    <desc>osm-id 1000000366295874</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.273056135" lon="11.093926197">
+    <name>Oberhofer Melkalm, 1694m</name>
+    <cmt>osm-id 1000000144618056</cmt>
+    <desc>osm-id 1000000144618056</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.266207365" lon="11.055196524">
+    <name>Peter-Anich-Hütte, 1909m</name>
+    <cmt>osm-id 1000000144635530</cmt>
+    <desc>osm-id 1000000144635530</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.270821016" lon="11.071565123">
+    <name>Pfaffenhofer Alm, 1694m</name>
+    <cmt>osm-id 1000000144618189</cmt>
+    <desc>osm-id 1000000144618189</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.330021476" lon="11.425587879">
+    <name>Pfeishütte, 1950m</name>
+    <cmt>osm-id 529651297</cmt>
+    <desc>osm-id 529651297</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.361237276" lon="10.866882233">
+    <name>Praxmarer Hütte</name>
+    <cmt>osm-id 983089611</cmt>
+    <desc>osm-id 983089611</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.345618857" lon="11.104938677">
+    <name>Rauthhütte, 1600m</name>
+    <cmt>osm-id 530190485</cmt>
+    <desc>osm-id 530190485</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.383474885" lon="11.077064490">
+    <name>Rotmoosalm, 2030m</name>
+    <cmt>osm-id 1000000123923649</cmt>
+    <desc>osm-id 1000000123923649</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.302903421" lon="11.421343200">
+    <name>Rumer Alm, 1243m</name>
+    <cmt>osm-id 1627269874</cmt>
+    <desc>osm-id 1627269874</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.333338950" lon="11.027480923">
+    <name>Schäferhütte, 1404m</name>
+    <cmt>osm-id 933862520</cmt>
+    <desc>osm-id 933862520</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.373437891" lon="10.942805093">
+    <name>Seeben Alm, 1566m</name>
+    <cmt>osm-id 1000000026955651</cmt>
+    <desc>osm-id 1000000026955651</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.283127578" lon="10.881286450">
+    <name>Simmeringalm, 1820m</name>
+    <cmt>osm-id 1000000144459253</cmt>
+    <desc>osm-id 1000000144459253</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.308130125" lon="11.288184766">
+    <name>Solsteinhaus, 1828m</name>
+    <cmt>osm-id 1000000026716681</cmt>
+    <desc>osm-id 1000000026716681</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.249249686" lon="11.005478846">
+    <name>Stamser Alm, 1873m</name>
+    <cmt>osm-id 1000000144634229</cmt>
+    <desc>osm-id 1000000144634229</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.335826028" lon="11.038735136">
+    <name>Straßberghaus, 1191m</name>
+    <cmt>osm-id 442056972</cmt>
+    <desc>osm-id 442056972</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.328022225" lon="10.720542837">
+    <name>Tarrentonalm</name>
+    <cmt>osm-id 1000000299859582</cmt>
+    <desc>osm-id 1000000299859582</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.313739546" lon="11.451724917">
+    <name>Thaurer Alm, 1464m</name>
+    <cmt>osm-id 282961692</cmt>
+    <desc>osm-id 282961692</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.372189322" lon="11.038853657">
+    <name>Tillfussalm</name>
+    <cmt>osm-id 2431129061</cmt>
+    <desc>osm-id 2431129061</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.292520674" lon="11.379029592">
+    <name>Umbrüggler Alm, 1123m</name>
+    <cmt>osm-id 3479300542</cmt>
+    <desc>osm-id 3479300542</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.381738489" lon="11.109839240">
+    <name>Wangalm, 1751m</name>
+    <cmt>osm-id 1000000026933857</cmt>
+    <desc>osm-id 1000000026933857</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.380230082" lon="11.108201332">
+    <name>Wetterstein Hütte, 1751m</name>
+    <cmt>osm-id 530197659</cmt>
+    <desc>osm-id 530197659</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.462123539" lon="12.408388574">
+    <name>Adlerhütte</name>
+    <cmt>osm-id 662483755</cmt>
+    <desc>osm-id 662483755</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.453596545" lon="11.658082427">
+    <name>Almgasthof Pletzach, 1040m</name>
+    <cmt>osm-id 1000000085070901</cmt>
+    <desc>osm-id 1000000085070901</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.441445468" lon="11.763957767">
+    <name>Almstüberl, 1804m</name>
+    <cmt>osm-id 1000000099474452</cmt>
+    <desc>osm-id 1000000099474452</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.438213322" lon="11.789413774">
+    <name>Alpbühelalm</name>
+    <cmt>osm-id 715763185</cmt>
+    <desc>osm-id 715763185</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.427694453" lon="11.694987528">
+    <name>Alpengasthaus Karwendel, 1480m</name>
+    <cmt>osm-id 1000000122712423</cmt>
+    <desc>osm-id 1000000122712423</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.420005649" lon="12.237590449">
+    <name>Alpenrosenhütte</name>
+    <cmt>osm-id 290233017</cmt>
+    <desc>osm-id 290233017</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.445122860" lon="11.820800733">
+    <name>Bayreuther Hütte</name>
+    <cmt>osm-id 292919704</cmt>
+    <desc>osm-id 292919704</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.446182752" lon="11.821014052">
+    <name>Bergalm</name>
+    <cmt>osm-id 1000000083636029</cmt>
+    <desc>osm-id 1000000083636029</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.441138439" lon="11.763993390">
+    <name>Berggasthof Rofan</name>
+    <cmt>osm-id 1000000099474431</cmt>
+    <desc>osm-id 1000000099474431</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.396738660" lon="11.578150671">
+    <name>Binsalm, 1500m</name>
+    <cmt>osm-id 1000000029312645</cmt>
+    <desc>osm-id 1000000029312645</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.433150066" lon="11.764615495">
+    <name>Buchauer Alm, 1385m</name>
+    <cmt>osm-id 1000000128223219</cmt>
+    <desc>osm-id 1000000128223219</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.420505630" lon="11.700228648">
+    <name>Bärenbadalm, 1457m</name>
+    <cmt>osm-id 1000000085074503</cmt>
+    <desc>osm-id 1000000085074503</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.375143943" lon="11.951103033">
+    <name>Böglalm</name>
+    <cmt>osm-id 1921758987</cmt>
+    <desc>osm-id 1921758987</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.449917980" lon="11.741590491">
+    <name>Dalfazalm, 1693m</name>
+    <cmt>osm-id 1000000124046721</cmt>
+    <desc>osm-id 1000000124046721</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.441644538" lon="11.763005499">
+    <name>Erfurter Hütte, 1834m</name>
+    <cmt>osm-id 1000000095667789</cmt>
+    <desc>osm-id 1000000095667789</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.399703674" lon="11.498954343">
+    <name>Falkenhütte, 1846m</name>
+    <cmt>osm-id 1000000026960869</cmt>
+    <desc>osm-id 1000000026960869</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.443735069" lon="11.659926698">
+    <name>Feilalm, 1380m</name>
+    <cmt>osm-id 1000000085132012</cmt>
+    <desc>osm-id 1000000085132012</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.476729341" lon="11.701933863">
+    <name>Gaisalm, 938m</name>
+    <cmt>osm-id 1000000087926967</cmt>
+    <desc>osm-id 1000000087926967</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.369192038" lon="12.221178766">
+    <name>Gasthaus Steinberg</name>
+    <cmt>osm-id 1000000108790770</cmt>
+    <desc>osm-id 1000000108790770</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.452298021" lon="11.634637071">
+    <name>Gernalm, 1172m</name>
+    <cmt>osm-id 1000000085077567</cmt>
+    <desc>osm-id 1000000085077567</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.403134136" lon="11.594037898">
+    <name>Gramai-Hochleger-Schutzhütte, 1756m</name>
+    <cmt>osm-id 1000000138993811</cmt>
+    <desc>osm-id 1000000138993811</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.440053737" lon="12.554926034">
+    <name>Grießenbodenalm</name>
+    <cmt>osm-id 1000000171065664</cmt>
+    <desc>osm-id 1000000171065664</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.443246739" lon="11.645326763">
+    <name>Gütenbergalm, 1545m</name>
+    <cmt>osm-id 1000000085131471</cmt>
+    <desc>osm-id 1000000085131471</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.444382822" lon="11.593236420">
+    <name>Hasentalalm Mitterleger, 1563m</name>
+    <cmt>osm-id 1000000138990358</cmt>
+    <desc>osm-id 1000000138990358</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.441452844" lon="11.584104169">
+    <name>Hasentalalm Niederleger, 1281m</name>
+    <cmt>osm-id 1000000029322818</cmt>
+    <desc>osm-id 1000000029322818</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.427538717" lon="12.372448817">
+    <name>Hocheckhütte</name>
+    <cmt>osm-id 1000000228963415</cmt>
+    <desc>osm-id 1000000228963415</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.426790046" lon="12.552454630">
+    <name>Hochhörndler Hütte</name>
+    <cmt>osm-id 358528108</cmt>
+    <desc>osm-id 358528108</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.407131968" lon="12.008587634">
+    <name>Hohlriederalm</name>
+    <cmt>osm-id 2952466275</cmt>
+    <desc>osm-id 2952466275</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.386551462" lon="12.464667941">
+    <name>Kelchalm</name>
+    <cmt>osm-id 1692552899</cmt>
+    <desc>osm-id 1692552899</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.414899645" lon="12.286641598">
+    <name>Kobingerhütte, 1504m</name>
+    <cmt>osm-id 1000000220074288</cmt>
+    <desc>osm-id 1000000220074288</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.380052470" lon="11.603562254">
+    <name>Lamsenjochhütte, 1953m</name>
+    <cmt>osm-id 1000000029269844</cmt>
+    <desc>osm-id 1000000029269844</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.365848497" lon="12.507911939">
+    <name>Lindlingalm, 1370m</name>
+    <cmt>osm-id 552391496</cmt>
+    <desc>osm-id 552391496</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.436190350" lon="12.480533039">
+    <name>Lämmerbichl-Alm, 1400m</name>
+    <cmt>osm-id 917959691</cmt>
+    <desc>osm-id 917959691</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.449560575" lon="12.465322483">
+    <name>Lämmerbühelalm</name>
+    <cmt>osm-id 1000000142517618</cmt>
+    <desc>osm-id 1000000142517618</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.444392126" lon="12.561019929">
+    <name>Lärchfilzhochalm, 1400m</name>
+    <cmt>osm-id 1000000145560445</cmt>
+    <desc>osm-id 1000000145560445</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.443771530" lon="11.764210984">
+    <name>Mauritzalm, 1836m</name>
+    <cmt>osm-id 1000000099474442</cmt>
+    <desc>osm-id 1000000099474442</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.476945091" lon="12.090073563">
+    <name>Möslalm</name>
+    <cmt>osm-id 1000000120290238</cmt>
+    <desc>osm-id 1000000120290238</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.379610827" lon="12.307616137">
+    <name>Oberlandhütte, 1014m</name>
+    <cmt>osm-id 1000000100452081</cmt>
+    <desc>osm-id 1000000100452081</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.451083232" lon="11.662031561">
+    <name>Pletzach Alm Sennhütte, 1040m</name>
+    <cmt>osm-id 1000000085077580</cmt>
+    <desc>osm-id 1000000085077580</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.446832266" lon="11.616061097">
+    <name>Plumsjoch-Hütte, 1630m</name>
+    <cmt>osm-id 1000000029373371</cmt>
+    <desc>osm-id 1000000029373371</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.418392217" lon="12.579307985">
+    <name>Pulvermacherscherm</name>
+    <cmt>osm-id 1000000385731875</cmt>
+    <desc>osm-id 1000000385731875</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.471421417" lon="12.128312644">
+    <name>Rahmhof</name>
+    <cmt>osm-id 1000000172293440</cmt>
+    <desc>osm-id 1000000172293440</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.433247548" lon="11.694119582">
+    <name>Rodelhütte Pertisau</name>
+    <cmt>osm-id 1000000122712425</cmt>
+    <desc>osm-id 1000000122712425</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.363188919" lon="12.249830626">
+    <name>Scheibenschlag-Hochalm</name>
+    <cmt>osm-id 1000000109225863</cmt>
+    <desc>osm-id 1000000109225863</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.363866931" lon="12.239205390">
+    <name>Scheibenschlag-Niederalm</name>
+    <cmt>osm-id 1000000109225865</cmt>
+    <desc>osm-id 1000000109225865</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.447934737" lon="11.793244053">
+    <name>Schermsteinalm</name>
+    <cmt>osm-id 1000000128217753</cmt>
+    <desc>osm-id 1000000128217753</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.452048576" lon="11.634811666">
+    <name>Sennhütte Gernalm</name>
+    <cmt>osm-id 1000000085077569</cmt>
+    <desc>osm-id 1000000085077569</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.425898882" lon="11.647049077">
+    <name>Sennhütte Jausenstation Falzturn, 1087m</name>
+    <cmt>osm-id 1000000121462290</cmt>
+    <desc>osm-id 1000000121462290</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.463562293" lon="11.829041820">
+    <name>Sonnwendjochhaus, 1785m</name>
+    <cmt>osm-id 1000000095534520</cmt>
+    <desc>osm-id 1000000095534520</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.456968334" lon="12.540324843">
+    <name>Streuböden</name>
+    <cmt>osm-id 1000000118831016</cmt>
+    <desc>osm-id 1000000118831016</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.407708224" lon="11.698258566">
+    <name>Weißenbachalm, 1606m</name>
+    <cmt>osm-id 1000000128332187</cmt>
+    <desc>osm-id 1000000128332187</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.409131136" lon="11.704847161">
+    <name>Weißenbachhütte, 1530m</name>
+    <cmt>osm-id 1000000128332193</cmt>
+    <desc>osm-id 1000000128332193</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.431796640" lon="12.539221449">
+    <name>Wildseeloderhaus, 1854m</name>
+    <cmt>osm-id 389786524</cmt>
+    <desc>osm-id 389786524</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.425204692" lon="12.654502373">
+    <name>Adamalm, 1379m</name>
+    <cmt>osm-id 1000000179455711</cmt>
+    <desc>osm-id 1000000179455711</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.473633569" lon="13.171662362">
+    <name>Alpengasthof Dielalm, 1026m</name>
+    <cmt>osm-id 1000000142899539</cmt>
+    <desc>osm-id 1000000142899539</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.409646790" lon="12.713924199">
+    <name>Asitzbräu, 1755m</name>
+    <cmt>osm-id 1000000178208516</cmt>
+    <desc>osm-id 1000000178208516</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.400550162" lon="12.664692588">
+    <name>Bergeralm</name>
+    <cmt>osm-id 2026173768</cmt>
+    <desc>osm-id 2026173768</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.422066927" lon="12.793343067">
+    <name>Berggasthof Biberg, 1443m</name>
+    <cmt>osm-id 1000000104863232</cmt>
+    <desc>osm-id 1000000104863232</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.405141350" lon="13.089389456">
+    <name>Brandstatthütte</name>
+    <cmt>osm-id 1000000129896839</cmt>
+    <desc>osm-id 1000000129896839</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.424971592" lon="12.611713093">
+    <name>Burgeralm</name>
+    <cmt>osm-id 1000000165952413</cmt>
+    <desc>osm-id 1000000165952413</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.372892899" lon="13.017325792">
+    <name>Bürglalm, 1596m</name>
+    <cmt>osm-id 1000000124431026</cmt>
+    <desc>osm-id 1000000124431026</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.390397247" lon="13.056616466">
+    <name>Dientalm</name>
+    <cmt>osm-id 1000000129896838</cmt>
+    <desc>osm-id 1000000129896838</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.461731853" lon="13.047870956">
+    <name>Eckberthütte, 1140m</name>
+    <cmt>osm-id 1000000091797593</cmt>
+    <desc>osm-id 1000000091797593</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.367925700" lon="12.946758633">
+    <name>Eggeralm</name>
+    <cmt>osm-id 1000000130804355</cmt>
+    <desc>osm-id 1000000130804355</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.481279457" lon="13.247483382">
+    <name>Elmaualm Werfenweng, 1533m</name>
+    <cmt>osm-id 1000000168877637</cmt>
+    <desc>osm-id 1000000168877637</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.373208981" lon="12.593701221">
+    <name>Erich-Sulke-Hütte, 1100m</name>
+    <cmt>osm-id 1000000125004695</cmt>
+    <desc>osm-id 1000000125004695</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.400472546" lon="13.039645962">
+    <name>Erichhütte, 1540m</name>
+    <cmt>osm-id 1000000129870890</cmt>
+    <desc>osm-id 1000000129870890</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.420522142" lon="13.062382462">
+    <name>Franz-Eduard-Matras-Haus, 2941m</name>
+    <cmt>osm-id 1000000103497132</cmt>
+    <desc>osm-id 1000000103497132</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.382135540" lon="13.265225440">
+    <name>Heinrich-Kiener-Haus, 1792m</name>
+    <cmt>osm-id 1000000126561974</cmt>
+    <desc>osm-id 1000000126561974</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.428647978" lon="12.804350182">
+    <name>Huggenberg Alm</name>
+    <cmt>osm-id 1000000158384830</cmt>
+    <desc>osm-id 1000000158384830</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.366953567" lon="12.835139092">
+    <name>Kammeregg Alm</name>
+    <cmt>osm-id 1000000205554724</cmt>
+    <desc>osm-id 1000000205554724</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.375460947" lon="13.055292545">
+    <name>Klingelbergalm, 1544m</name>
+    <cmt>osm-id 1000000175585388</cmt>
+    <desc>osm-id 1000000175585388</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.425280130" lon="12.679669121">
+    <name>Knappenstube</name>
+    <cmt>osm-id 1839849831</cmt>
+    <desc>osm-id 1839849831</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.480506729" lon="13.222436244">
+    <name>Mahdegg Alpengasthof, 1209m</name>
+    <cmt>osm-id 1000000162248386</cmt>
+    <desc>osm-id 1000000162248386</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.408601986" lon="12.731870944">
+    <name>Matzalm</name>
+    <cmt>osm-id 1000000179476245</cmt>
+    <desc>osm-id 1000000179476245</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.391347587" lon="13.057167158">
+    <name>Mittereggalm</name>
+    <cmt>osm-id 1000000129897387</cmt>
+    <desc>osm-id 1000000129897387</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.421377096" lon="13.141943654">
+    <name>Mitterfeldalm, 1670m</name>
+    <cmt>osm-id 1000000152187326</cmt>
+    <desc>osm-id 1000000152187326</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.404773217" lon="13.091430031">
+    <name>Molteraualm, 1520m</name>
+    <cmt>osm-id 1000000129896843</cmt>
+    <desc>osm-id 1000000129896843</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.460245071" lon="13.116037790">
+    <name>Ostpreußenhütte, 1630m</name>
+    <cmt>osm-id 1000000142890732</cmt>
+    <desc>osm-id 1000000142890732</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.474189959" lon="12.750353962">
+    <name>Passauer Hütte, 2051m</name>
+    <cmt>osm-id 1000000027715096</cmt>
+    <desc>osm-id 1000000027715096</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.463672264" lon="12.875342723">
+    <name>Peter-Wiechenthaler-Hütte, 1752m</name>
+    <cmt>osm-id 389786192</cmt>
+    <desc>osm-id 389786192</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.404587893" lon="13.013543375">
+    <name>Pichl Alm</name>
+    <cmt>osm-id 1000000092807467</cmt>
+    <desc>osm-id 1000000092807467</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.392062647" lon="12.682774784">
+    <name>Rachkuchl</name>
+    <cmt>osm-id 291188569</cmt>
+    <desc>osm-id 291188569</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.458021352" lon="12.914405577">
+    <name>Riemannhaus, 2177m</name>
+    <cmt>osm-id 1000000029176116</cmt>
+    <desc>osm-id 1000000029176116</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.428419068" lon="12.654010775">
+    <name>Scheltaualm</name>
+    <cmt>osm-id 1000000179455736</cmt>
+    <desc>osm-id 1000000179455736</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.385232067" lon="13.102703858">
+    <name>Schepperlalm</name>
+    <cmt>osm-id 1000000133521337</cmt>
+    <desc>osm-id 1000000133521337</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.403019052" lon="12.695874944">
+    <name>Schönleitenhütte</name>
+    <cmt>osm-id 1000000174345630</cmt>
+    <desc>osm-id 1000000174345630</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.431634869" lon="12.773388857">
+    <name>Sinnlehen Alm</name>
+    <cmt>osm-id 1839842096</cmt>
+    <desc>osm-id 1839842096</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.416551718" lon="12.619921742">
+    <name>Spielberghaus</name>
+    <cmt>osm-id 338818543</cmt>
+    <desc>osm-id 338818543</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.427535281" lon="12.712727264">
+    <name>Stöcklalm</name>
+    <cmt>osm-id 1000000178205564</cmt>
+    <desc>osm-id 1000000178205564</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.402841356" lon="12.663849620">
+    <name>Thurneralm</name>
+    <cmt>osm-id 1000000179476465</cmt>
+    <desc>osm-id 1000000179476465</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.364045633" lon="12.622710736">
+    <name>Westgipfelhütte</name>
+    <cmt>osm-id 1000000091746742</cmt>
+    <desc>osm-id 1000000091746742</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.406204091" lon="13.110312950">
+    <name>Windrauchegg Alm</name>
+    <cmt>osm-id 1000000129896852</cmt>
+    <desc>osm-id 1000000129896852</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.416548450" lon="12.623951258">
+    <name>Wirtsalm</name>
+    <cmt>osm-id 1000000120875562</cmt>
+    <desc>osm-id 1000000120875562</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.385795666" lon="13.073667269">
+    <name>Zapferlalm</name>
+    <cmt>osm-id 1000000133534814</cmt>
+    <desc>osm-id 1000000133534814</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.378703486" lon="13.032013569">
+    <name>osm-id 1000000124441598</name>
+    <cmt>osm-id 1000000124441598</cmt>
+    <desc>osm-id 1000000124441598</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.371700574" lon="13.181529539">
+    <name>osm-id 1000000134810135</name>
+    <cmt>osm-id 1000000134810135</cmt>
+    <desc>osm-id 1000000134810135</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.478637062" lon="12.598938234">
+    <name>osm-id 675628658</name>
+    <cmt>osm-id 675628658</cmt>
+    <desc>osm-id 675628658</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.477433840" lon="12.611757852">
+    <name>osm-id 675628886</name>
+    <cmt>osm-id 675628886</cmt>
+    <desc>osm-id 675628886</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.300460851" lon="11.761475299">
+    <name>Alpengasthof Loas</name>
+    <cmt>osm-id 1000000070743016</cmt>
+    <desc>osm-id 1000000070743016</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.324942378" lon="11.758996770">
+    <name>Alte Kellerjochhütte, 1846m</name>
+    <cmt>osm-id 1000000035285189</cmt>
+    <desc>osm-id 1000000035285189</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.338609574" lon="11.507479995">
+    <name>Bettelwurfhütte, 2077m</name>
+    <cmt>osm-id 411330221</cmt>
+    <desc>osm-id 411330221</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.356330929" lon="12.575802756">
+    <name>Breitfußalm</name>
+    <cmt>osm-id 544192169</cmt>
+    <desc>osm-id 544192169</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.342354776" lon="12.003428238">
+    <name>Faulbaumgarten Alm</name>
+    <cmt>osm-id 1000000037895782</cmt>
+    <desc>osm-id 1000000037895782</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.343383571" lon="11.602747031">
+    <name>Ganalm</name>
+    <cmt>osm-id 410366179</cmt>
+    <desc>osm-id 410366179</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.313555898" lon="11.782152699">
+    <name>Gartalm</name>
+    <cmt>osm-id 1000000135312655</cmt>
+    <desc>osm-id 1000000135312655</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.346343640" lon="12.467752732">
+    <name>Grundalm</name>
+    <cmt>osm-id 1000000218564237</cmt>
+    <desc>osm-id 1000000218564237</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.316530552" lon="11.764788833">
+    <name>Kellerjochhütte, 2237m</name>
+    <cmt>osm-id 1000000035285185</cmt>
+    <desc>osm-id 1000000035285185</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.350468794" lon="12.283975482">
+    <name>Labalm</name>
+    <cmt>osm-id 1000000106104372</cmt>
+    <desc>osm-id 1000000106104372</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.308910228" lon="12.150550839">
+    <name>Neue Bamberger Hütte, 1756m</name>
+    <cmt>osm-id 1000000125338464</cmt>
+    <desc>osm-id 1000000125338464</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.321386943" lon="12.008072985">
+    <name>Otto-Leixl-Hütte, 1911m</name>
+    <cmt>osm-id 1000000131245650</cmt>
+    <desc>osm-id 1000000131245650</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.308604624" lon="12.201020876">
+    <name>Rotwand Grundalm</name>
+    <cmt>osm-id 2368392910</cmt>
+    <desc>osm-id 2368392910</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.288848227" lon="12.279901626">
+    <name>Schutzhütte rettenstein, 1845m</name>
+    <cmt>osm-id 475537079</cmt>
+    <desc>osm-id 475537079</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.294150032" lon="12.221897766">
+    <name>Sonntagsalm</name>
+    <cmt>osm-id 1000000039351549</cmt>
+    <desc>osm-id 1000000039351549</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.278098939" lon="12.253446076">
+    <name>Steineralm, 1559m</name>
+    <cmt>osm-id 529491450</cmt>
+    <desc>osm-id 529491450</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.294159085" lon="12.204398280">
+    <name>Trattenbach-Grundalm</name>
+    <cmt>osm-id 1000000039351545</cmt>
+    <desc>osm-id 1000000039351545</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.293518540" lon="12.181719197">
+    <name>Trattenbach-Hochalm, 1955m</name>
+    <cmt>osm-id 1000000039351542</cmt>
+    <desc>osm-id 1000000039351542</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.338406984" lon="11.583211245">
+    <name>Walder Alm</name>
+    <cmt>osm-id 410366178</cmt>
+    <desc>osm-id 410366178</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.245193683" lon="11.695434786">
+    <name>Weertalhütte, 1430m</name>
+    <cmt>osm-id 1000000170479508</cmt>
+    <desc>osm-id 1000000170479508</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.358838627" lon="12.447549999">
+    <name>Wildalm</name>
+    <cmt>osm-id 1000000304571066</cmt>
+    <desc>osm-id 1000000304571066</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.279642466" lon="12.295652730">
+    <name>Wildkogel Haus, 2005m</name>
+    <cmt>osm-id 1000000039207981</cmt>
+    <desc>osm-id 1000000039207981</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.270006295" lon="11.846131934">
+    <name>Zillertaler Schi-Alm</name>
+    <cmt>osm-id 1000000093477027</cmt>
+    <desc>osm-id 1000000093477027</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.295981226" lon="12.293112343">
+    <name>osm-id 1000000039208344</name>
+    <cmt>osm-id 1000000039208344</cmt>
+    <desc>osm-id 1000000039208344</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.357134419" lon="13.114983179">
+    <name>Althausalm</name>
+    <cmt>osm-id 1000000111413969</cmt>
+    <desc>osm-id 1000000111413969</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.260367526" lon="13.068603929">
+    <name>Amoseralm, 1175m</name>
+    <cmt>osm-id 1000000121140321</cmt>
+    <desc>osm-id 1000000121140321</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.306924220" lon="12.766904868">
+    <name>Areitalm, 1400m</name>
+    <cmt>osm-id 1000000259259148</cmt>
+    <desc>osm-id 1000000259259148</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.262803223" lon="13.166357037">
+    <name>Aualm, 1795m</name>
+    <cmt>osm-id 1000000025549302</cmt>
+    <desc>osm-id 1000000025549302</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.241282854" lon="13.124112496">
+    <name>Brandlalm</name>
+    <cmt>osm-id 1000000235508790</cmt>
+    <desc>osm-id 1000000235508790</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.322046682" lon="12.744818721">
+    <name>Breiteckalm</name>
+    <cmt>osm-id 440712913</cmt>
+    <desc>osm-id 440712913</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.292906241" lon="12.678580396">
+    <name>Bubenreuther Hütte, 950m</name>
+    <cmt>osm-id 901547089</cmt>
+    <desc>osm-id 901547089</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.308883490" lon="13.232879592">
+    <name>Buchauhütte</name>
+    <cmt>osm-id 1000000120178702</cmt>
+    <desc>osm-id 1000000120178702</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.318028985" lon="12.789214393">
+    <name>Ebenbergalm</name>
+    <cmt>osm-id 1000000181087812</cmt>
+    <desc>osm-id 1000000181087812</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.244207719" lon="13.271029321">
+    <name>Ellmaualm, 1794m</name>
+    <cmt>osm-id 1000000127788419</cmt>
+    <desc>osm-id 1000000127788419</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.322683120" lon="12.838629484">
+    <name>Enzianhütte.1</name>
+    <cmt>osm-id 1000000127474671</cmt>
+    <desc>osm-id 1000000127474671</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.308620717" lon="13.235944854">
+    <name>Gernkogelalm</name>
+    <cmt>osm-id 1000000120178703</cmt>
+    <desc>osm-id 1000000120178703</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.245985437" lon="13.226113049">
+    <name>Gersreitalm, 1575m</name>
+    <cmt>osm-id 1000000133485830</cmt>
+    <desc>osm-id 1000000133485830</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.314203568" lon="12.755296100">
+    <name>Glocknerhaus</name>
+    <cmt>osm-id 1000000145226773</cmt>
+    <desc>osm-id 1000000145226773</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.241664147" lon="13.143319460">
+    <name>Grabneralm, 1720m</name>
+    <cmt>osm-id 1000000235508794</cmt>
+    <desc>osm-id 1000000235508794</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.309922427" lon="13.273112057">
+    <name>Grafenbergalm</name>
+    <cmt>osm-id 1000000120196166</cmt>
+    <desc>osm-id 1000000120196166</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.306115786" lon="13.260215493">
+    <name>Großunterberg Alm</name>
+    <cmt>osm-id 1000000120191929</cmt>
+    <desc>osm-id 1000000120191929</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.259652549" lon="13.270014860">
+    <name>Großwildalm, 1778m</name>
+    <cmt>osm-id 1000000131300364</cmt>
+    <desc>osm-id 1000000131300364</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.307245079" lon="13.268298497">
+    <name>Hachaualm</name>
+    <cmt>osm-id 1000000120196112</cmt>
+    <desc>osm-id 1000000120196112</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.320998441" lon="13.040211573">
+    <name>Hackeralm</name>
+    <cmt>osm-id 1000000110302400</cmt>
+    <desc>osm-id 1000000110302400</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.282524165" lon="13.102896726">
+    <name>Haßeckalm, 1820m</name>
+    <cmt>osm-id 1000000126196703</cmt>
+    <desc>osm-id 1000000126196703</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.244880619" lon="13.057058193">
+    <name>Heinreich-Hochalm, 1688m</name>
+    <cmt>osm-id 1000000121120110</cmt>
+    <desc>osm-id 1000000121120110</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.252826579" lon="12.863190640">
+    <name>Heubergalm, 1665m</name>
+    <cmt>osm-id 1000000230032449</cmt>
+    <desc>osm-id 1000000230032449</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.264906075" lon="13.216724647">
+    <name>Heugathalm</name>
+    <cmt>osm-id 1000000136714842</cmt>
+    <desc>osm-id 1000000136714842</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.246112674" lon="13.146317750">
+    <name>Heumoosalm, 1618m</name>
+    <cmt>osm-id 1000000235508795</cmt>
+    <desc>osm-id 1000000235508795</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.344203657" lon="12.965652365">
+    <name>Hochkaseralm, 1680m</name>
+    <cmt>osm-id 1000000384657367</cmt>
+    <desc>osm-id 1000000384657367</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.339354390" lon="13.088222444">
+    <name>Hochleit'nalm</name>
+    <cmt>osm-id 1000000274042959</cmt>
+    <desc>osm-id 1000000274042959</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.332272436" lon="12.738483846">
+    <name>Hochzeller-Alm</name>
+    <cmt>osm-id 1000000102413629</cmt>
+    <desc>osm-id 1000000102413629</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.354614818" lon="13.023579279">
+    <name>Huberalm</name>
+    <cmt>osm-id 1000000175032719</cmt>
+    <desc>osm-id 1000000175032719</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.284983164" lon="13.190609990">
+    <name>Igltalalm (Niggeltalalm), 1501m</name>
+    <cmt>osm-id 1000000100014330</cmt>
+    <desc>osm-id 1000000100014330</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.359461235" lon="12.953224937">
+    <name>Jagglalm</name>
+    <cmt>osm-id 1000000130506924</cmt>
+    <desc>osm-id 1000000130506924</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.272815742" lon="12.750870958">
+    <name>Jausenstation Unteraigen</name>
+    <cmt>osm-id 1000000038969737</cmt>
+    <desc>osm-id 1000000038969737</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.268034620" lon="12.997227665">
+    <name>Kapelleralm, 1510m</name>
+    <cmt>osm-id 1000000289677335</cmt>
+    <desc>osm-id 1000000289677335</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.278926065" lon="13.258410869">
+    <name>Karsegg-Heimalm, 1603m</name>
+    <cmt>osm-id 1000000131305419</cmt>
+    <desc>osm-id 1000000131305419</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.327517718" lon="12.728462946">
+    <name>Ketting Alm</name>
+    <cmt>osm-id 1000000189119292</cmt>
+    <desc>osm-id 1000000189119292</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.351361550" lon="13.047475833">
+    <name>Klausalm</name>
+    <cmt>osm-id 1000000124101204</cmt>
+    <desc>osm-id 1000000124101204</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.267113449" lon="13.289547963">
+    <name>Kleinarler Hütte, 1754m</name>
+    <cmt>osm-id 1000000136727237</cmt>
+    <desc>osm-id 1000000136727237</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.356966948" lon="13.059930922">
+    <name>Klingelbergalm, 1474m</name>
+    <cmt>osm-id 1000000124101205</cmt>
+    <desc>osm-id 1000000124101205</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.281810697" lon="13.055443754">
+    <name>Kögerlalm, 1370m</name>
+    <cmt>osm-id 1000000130185831</cmt>
+    <desc>osm-id 1000000130185831</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.349284263" lon="13.031450557">
+    <name>Königsbergalm, 1325m</name>
+    <cmt>osm-id 1000000175032718</cmt>
+    <desc>osm-id 1000000175032718</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.268022047" lon="13.033130877">
+    <name>Maschl Niederalm</name>
+    <cmt>osm-id 1000000212709260</cmt>
+    <desc>osm-id 1000000212709260</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.292368878" lon="13.256855020">
+    <name>Maurachalm, 1620m</name>
+    <cmt>osm-id 1000000131305421</cmt>
+    <desc>osm-id 1000000131305421</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.322452031" lon="13.046356849">
+    <name>Meiselsteinalm</name>
+    <cmt>osm-id 1000000110302825</cmt>
+    <desc>osm-id 1000000110302825</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.355340859" lon="13.045790652">
+    <name>Moosalm, 1386m</name>
+    <cmt>osm-id 1000000124101206</cmt>
+    <desc>osm-id 1000000124101206</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.315594126" lon="12.886343468">
+    <name>Moosalm, 1531m</name>
+    <cmt>osm-id 1000000127480174</cmt>
+    <desc>osm-id 1000000127480174</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.276935028" lon="13.185295947">
+    <name>Mooslehenalm, 1449m</name>
+    <cmt>osm-id 1000000127518883</cmt>
+    <desc>osm-id 1000000127518883</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.288640356" lon="13.251222633">
+    <name>Muggenfeldalm (Rothofalm), 1545m</name>
+    <cmt>osm-id 1000000131305424</cmt>
+    <desc>osm-id 1000000131305424</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.310626926" lon="13.221971132">
+    <name>Obergaßalm</name>
+    <cmt>osm-id 1000000120178713</cmt>
+    <desc>osm-id 1000000120178713</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.276397664" lon="13.270869562">
+    <name>Oberwandalm, 1860m</name>
+    <cmt>osm-id 1000000131305426</cmt>
+    <desc>osm-id 1000000131305426</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.241809322" lon="12.970817965">
+    <name>Penninghofalm</name>
+    <cmt>osm-id 1000000441900833</cmt>
+    <desc>osm-id 1000000441900833</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.322853943" lon="12.719079489">
+    <name>Pinzgauer Hütte, 1704m</name>
+    <cmt>osm-id 1000000259246373</cmt>
+    <desc>osm-id 1000000259246373</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.361195283" lon="13.143521128">
+    <name>Pronebenalm, 1274m</name>
+    <cmt>osm-id 1000000111403938</cmt>
+    <desc>osm-id 1000000111403938</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.241955586" lon="13.126604771">
+    <name>Reiterhütte</name>
+    <cmt>osm-id 1000000235508796</cmt>
+    <desc>osm-id 1000000235508796</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.361809257" lon="13.156071017">
+    <name>Rettenebenalm (Roslalm)</name>
+    <cmt>osm-id 1000000111412512</cmt>
+    <desc>osm-id 1000000111412512</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.256964976" lon="13.228416145">
+    <name>Saukaralm</name>
+    <cmt>osm-id 1000000097796200</cmt>
+    <desc>osm-id 1000000097796200</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.258259477" lon="12.714880742">
+    <name>Saulochalm</name>
+    <cmt>osm-id 1209817466</cmt>
+    <desc>osm-id 1209817466</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.272557747" lon="13.148683459">
+    <name>Schernbergalm, 1800m</name>
+    <cmt>osm-id 1000000114437952</cmt>
+    <desc>osm-id 1000000114437952</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.344183037" lon="12.765990989">
+    <name>Schmiedhofalm</name>
+    <cmt>osm-id 1000000181017226</cmt>
+    <desc>osm-id 1000000181017226</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.358791856" lon="12.856894825">
+    <name>Schützingalm, 1655m</name>
+    <cmt>osm-id 1000000231623956</cmt>
+    <desc>osm-id 1000000231623956</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.343922360" lon="12.755264584">
+    <name>Sonnkogel Alm</name>
+    <cmt>osm-id 661044755</cmt>
+    <desc>osm-id 661044755</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.338220570" lon="12.911317600">
+    <name>Statzerhaus, 2117m</name>
+    <cmt>osm-id 1000000127480175</cmt>
+    <desc>osm-id 1000000127480175</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.262456547" lon="13.117386438">
+    <name>Steiner-Hochalm, 1550m</name>
+    <cmt>osm-id 1000000126187473</cmt>
+    <desc>osm-id 1000000126187473</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.305522179" lon="13.250401122">
+    <name>Straßalm</name>
+    <cmt>osm-id 1000000120182522</cmt>
+    <desc>osm-id 1000000120182522</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.245957190" lon="13.087103963">
+    <name>Strohlehenalm, 1104m</name>
+    <cmt>osm-id 1000000121122717</cmt>
+    <desc>osm-id 1000000121122717</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.354851188" lon="13.107260764">
+    <name>Stötzlbergalm, 1217m</name>
+    <cmt>osm-id 1000000111196127</cmt>
+    <desc>osm-id 1000000111196127</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.270596381" lon="13.035955662">
+    <name>Tischleralm</name>
+    <cmt>osm-id 1000000212704451</cmt>
+    <desc>osm-id 1000000212704451</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.252871087" lon="12.702148128">
+    <name>Unterbergalm</name>
+    <cmt>osm-id 298232764</cmt>
+    <desc>osm-id 298232764</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.281887894" lon="13.251994438">
+    <name>Unterwandalm, 1600m</name>
+    <cmt>osm-id 1000000131305527</cmt>
+    <desc>osm-id 1000000131305527</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.278698748" lon="13.181342287">
+    <name>Viehhausalm, 1640m</name>
+    <cmt>osm-id 1000000127518979</cmt>
+    <desc>osm-id 1000000127518979</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.256252179" lon="13.001569659">
+    <name>Wastlalm</name>
+    <cmt>osm-id 1000000232271818</cmt>
+    <desc>osm-id 1000000232271818</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.253501741" lon="12.876510993">
+    <name>osm-id 1000000230032447</name>
+    <cmt>osm-id 1000000230032447</cmt>
+    <desc>osm-id 1000000230032447</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
